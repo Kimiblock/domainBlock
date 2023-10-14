@@ -12,9 +12,10 @@ function getList(){
 
 function mergeList(){
 	cat /tmp/domainBlock-*.txt >/tmp/domainBlock.txt
+	cat dnsRefuse.txt >/tmp/domainBlock.txt
 	sed -i '$!N; /^\(.*\)\n\1$/!P; D' /tmp/domainBlock.txt
 	cp /tmp/domainBlock.txt .
-	#rm /tmp/domainBlock*.txt
+	rm /tmp/domainBlock*.txt
 }
 
 getList
