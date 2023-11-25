@@ -897,7 +897,6 @@ a||0-000.store^
 ||52zfl.com^
 ||532xcxypmpnp.com^
 ||53gem.com^
-||54askjdklm.xyz^
 ||54kefu.net^
 ||55.2myip.com^
 ||550a.com^
@@ -913,7 +912,6 @@ a||0-000.store^
 ||56txs4.com^
 ||5726303d87522d05.com^
 ||572k3.com^
-||573569djd.com^
 ||5735fda733.com^
 ||5783.org^
 ||57883.net^
@@ -1402,7 +1400,6 @@ a||0-000.store^
 ||9rendezvous-l.com^
 ||9s4l9nik.de^
 ||9t5.me^
-||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
 ||9v58v.com^
 ||9vzzijbj5f.com^
@@ -3618,7 +3615,6 @@ a||0-000.store^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
-||ads-union.jd.com^
 ||ads-verify.yap.yahoo.com^
 ||ads-yallo-production.imgix.net^
 ||ads.123net.jp^
@@ -5957,7 +5953,6 @@ a||0-000.store^
 ||ajarigodwin.com^
 ||ajcclassifieds.com^
 ||ajch.bwc.ae^
-||ajdivotdelbloab24.jio.com^
 ||ajestigie.com^
 ||ajflwavi.com^
 ||ajfnee.com^
@@ -6925,7 +6920,6 @@ a||0-000.store^
 ||analytics.schoolwires.com^
 ||analytics.seekxr.com^
 ||analytics.seg.ritual.com^
-||analytics.sejda.com^
 ||analytics.send.cm^
 ||analytics.services.kirra.nl^
 ||analytics.servogram.io^
@@ -7780,7 +7774,6 @@ a||0-000.store^
 ||aqc.gucheng.com^
 ||aqeet.com^
 ||aqi.wd.amberweather.com^
-||aqjdigkqvmakz.com^
 ||aqkkoalfpz.com^
 ||aqpogwawr.com^
 ||aqtracker.com^
@@ -10525,8 +10518,6 @@ a||0-000.store^
 ||bjads.bejbej.ca^
 ||bjakku.com^
 ||bjcathay.com^
-||bjdianyue.com^
-||bjdxhs.com^
 ||bjeai.com^
 ||bjjabc.com^
 ||bjmxcy.cn^
@@ -10988,7 +10979,6 @@ a||0-000.store^
 ||bootsstation-reiherhals.de^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
-||bootstrapcdn.jdorfman.netdna-cdn.com^
 ||bootstraplugin.com^
 ||bop-bop-bam.com^
 ||bopstermedia56.com^
@@ -11619,7 +11609,6 @@ a||0-000.store^
 ||bvoffers-elb.go2cloud.org^
 ||bvsxquec.xyz^
 ||bvvp.in^
-||bw95vpjda.ru^
 ||bwads24.com^
 ||bwb101.goo.ne.jp^
 ||bwbw2kje848hsmla.ru^
@@ -14164,7 +14153,6 @@ a||0-000.store^
 ||columnisterror.com^
 ||columnsremembrancesoap.com^
 ||coluth.com^
-||com-wkejf32ljd23409system.net^
 ||com.econa.com^
 ||com495.ru^
 ||comadscity.com^
@@ -14738,7 +14726,6 @@ a||0-000.store^
 ||counter.hyipexplorer.com^
 ||counter.inetusa.com^
 ||counter.insales.ru^
-||counter.jdi5.com^
 ||counter.joins.com^
 ||counter.kaspersky.com^
 ||counter.letssingit.com^
@@ -15884,7 +15871,6 @@ a||0-000.store^
 ||d28nwox1gdjlve.cloudfront.net^
 ||d28s7kbgrs6h2f.cloudfront.net^
 ||d28u86vqawvw52.cloudfront.net^
-||d29bsjuqfmjd63.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29dzo8owxlzou.cloudfront.net^
 ||d29gqcij.com^
@@ -16076,7 +16062,6 @@ a||0-000.store^
 ||d39ion77s0ucuz.cloudfront.net^
 ||d39xxywi4dmut5.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
-||d3a00ifauhjdp.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3aajkp07o1e4y.cloudfront.net^
 ||d3ahinqqx1dy5v.cloudfront.net^
@@ -16110,7 +16095,6 @@ a||0-000.store^
 ||d3fqhkmofpujs3.cloudfront.net^
 ||d3frqqoat98cng.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
-||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
 ||d3hs51abvkuanv.cloudfront.net^
@@ -16125,7 +16109,6 @@ a||0-000.store^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3j7esvm4tntxq.cloudfront.net^
 ||d3jcjsor8fnmka.cloudfront.net^
-||d3jdulus8lb392.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kpkrgd3aj4o7.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
@@ -16184,7 +16167,6 @@ a||0-000.store^
 ||d3t3bxixsojwre.cloudfront.net^
 ||d3t3lxfqz2g5hs.cloudfront.net^
 ||d3t3z4teexdk2r.cloudfront.net^
-||d3t5ngjixpjdho.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
 ||d3t9nyds4ufoqz.cloudfront.net^
 ||d3tfz9q9zlwk84.cloudfront.net^
@@ -17014,7 +16996,6 @@ a||0-000.store^
 ||dexplatform.com^
 ||dexpredict.com^
 ||deyidesign.com^
-||dezf3o8j9jdt6.cloudfront.net^
 ||df-srv.de^
 ||df.tanx.com^
 ||df0pmigc8xs70.cloudfront.net^
@@ -17103,7 +17084,6 @@ a||0-000.store^
 ||diaspoafromarket.com^
 ||diaspora-news.com^
 ||diazepam.shengen.ru^
-||dibjaahejdaeejhhaacd.ru^
 ||dibsemey.com^
 ||dichthuatvietuc.com.vn^
 ||diclotrans.com^
@@ -17437,7 +17417,6 @@ a||0-000.store^
 ||dk57sacpbi4by.cloudfront.net^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dkifl.com^
-||dkjdnq.cn^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkre4lyk6a9bt.cloudfront.net^
 ||dktr03lf4tq7h.cloudfront.net^
@@ -17483,7 +17462,6 @@ a||0-000.store^
 ||dlxpix.net^
 ||dlxxjsh.top^
 ||dlyukun.cn^
-||dlzjdesign.com^
 ||dm-event.net^
 ||dm.17xuexiba.com^
 ||dm.300zi.com^
@@ -18763,7 +18741,6 @@ a||0-000.store^
 ||eivamos.com^
 ||ej.progresas.lt^
 ||ejcet5y9ag.com^
-||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
 ||ejevika.com^
 ||ejfuh.com^
@@ -19568,7 +19545,6 @@ a||0-000.store^
 ||events.api.red.wemesh.ca^
 ||events.appsflyer.com^
 ||events.artirix.com^
-||events.askjdhaa.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.audioplace.me^
@@ -20796,7 +20772,6 @@ a||0-000.store^
 ||flaxenvapour.com^
 ||flaxierfilmset.com^
 ||flaxim.com^
-||flaxseedssoenrh4372ojd.com^
 ||flbox.net^
 ||flcounter.com^
 ||flea.artisan.school^
@@ -23336,7 +23311,6 @@ a||0-000.store^
 ||guagua.buzz^
 ||guan.domainnamesanity.com^
 ||guan.elfenkueche.at^
-||guanaco.jden.me^
 ||guanaco.redpixelthemes.com^
 ||guandads.com^
 ||guang.sdsgwy.com^
@@ -23487,7 +23461,6 @@ a||0-000.store^
 ||gzts188.com^
 ||gzww.site^
 ||gzwxdq.cn^
-||gzzkjdam.cn^
 ||h-adashx.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
 ||h-ay.com^
@@ -24885,7 +24858,6 @@ a||0-000.store^
 ||hyhfsj.com^
 ||hyipbrowser.biz^
 ||hyipmanager.in^
-||hyjdz.cn^
 ||hyjxtz.com^
 ||hykrrersrl.com^
 ||hylaninterior.ca^
@@ -25260,7 +25232,6 @@ a||0-000.store^
 ||iiutq.xyz^
 ||iivt.com^
 ||iixecczxqzy.com^
-||ijderu.tr.af^
 ||ijkcmm.com^
 ||ijrah.top^
 ||ijre.club^
@@ -26150,7 +26121,6 @@ a||0-000.store^
 ||ione.mn^
 ||ioniamcurren.com^
 ||ioniaukmla.xyz^
-||ionnmjdsf.com^
 ||iononetravoy.com^
 ||ionseleaukses.autos^
 ||iople.com^
@@ -26641,16 +26611,6 @@ a||0-000.store^
 ||jcyunk2.com^
 ||jczs.xyz^
 ||jczzjx.com^
-||jdarchitect.in^
-||jddaw.com^
-||jdfabrication.com^
-||jdgsgl.com^
-||jdmcleaning.co.id^
-||jdmodr.com^
-||jdownloader.fr^
-||jdsbrvnkabd.com^
-||jdserralheria.com.br^
-||jdzlxtc.com^
 ||je8fn.com^
 ||jeanda.mx^
 ||jeannemildconfusion.com^
@@ -26821,7 +26781,6 @@ a||0-000.store^
 ||jiyan.net^
 ||jizzarchives.com^
 ||jizzensirrah.com^
-||jjdtjvydmy.xyz^
 ||jjekxle.com^
 ||jjmdavj.com^
 ||jjpnveujkk.com^
@@ -30598,7 +30557,6 @@ a||0-000.store^
 ||mdhv.io^
 ||mdialog.com^
 ||mdjacksonville.112.2o7.net^
-||mdjdg.girlssohorny.net^
 ||mdklc.top^
 ||mdn2015x1.com^
 ||mds.nipa.co.th^
@@ -31295,7 +31253,6 @@ a||0-000.store^
 ||mifeng.buzz^
 ||migayush2lam1pa1.com^
 ||mightwhiskers.com^
-||mightyhulsjdk.com^
 ||mightylottrembling.com^
 ||mightymagoo.com^
 ||mightyspiders.com^
@@ -31479,7 +31436,6 @@ a||0-000.store^
 ||mizvan.com^
 ||mjavagames.ru^
 ||mjca-yijws.global.ssl.fastly.net^
-||mjdstore.com^
 ||mjkha.top^
 ||mjlunalaw.com^
 ||mjnxku.com^
@@ -33367,7 +33323,6 @@ a||0-000.store^
 ||njcengpianwang.cn^
 ||njcyfpv.cn^
 ||njcyt.com^
-||njdijiani.com^
 ||njguluyu.cn^
 ||njs.manhuahome.com^
 ||njxczy.com^
@@ -35208,7 +35163,6 @@ a||0-000.store^
 ||p59othersq.com^
 ||p64gk2yhba0p.com^
 ||p78lld1s.top^
-||p7m1rc80jdum.com^
 ||p8u.hinet.net^
 ||pa-oa.com^
 ||pa.5.p2l.info^
@@ -38346,7 +38300,6 @@ a||0-000.store^
 ||qdatasales.com^
 ||qdb6gd3nth.ru^
 ||qdchunyu.com^
-||qddrusjdrjuj.com^
 ||qdfxeqhnjuknyy.com^
 ||qdglzx.com^
 ||qdmil.com^
@@ -38385,7 +38338,6 @@ a||0-000.store^
 ||qienews.cn^
 ||qiezijs.cc^
 ||qifvupoxxo.com^
-||qiji1.jdwx.info^
 ||qikdownloads.com^
 ||qilashou.com^
 ||qinger.name^
@@ -38416,7 +38368,6 @@ a||0-000.store^
 ||qlnomb.com^
 ||qloved.cn^
 ||qlssbq.cn^
-||qmihajdixr.com^
 ||qmjqejckflsqkes.com^
 ||qmkr7isp3o.com^
 ||qmsled.com^
@@ -38479,7 +38430,6 @@ a||0-000.store^
 ||qthynj2.com^
 ||qtimowbaqnd.xyz^
 ||quackdamaging.com^
-||quackexclusfdfjd.com^
 ||quacklabs.in^
 ||quacksquirrel.com^
 ||quad-cleaner.com^
@@ -40551,7 +40501,6 @@ a||0-000.store^
 ||rumpelstiltskinhead.com^
 ||rumstat.cdnvideo.ru^
 ||run-syndicate.com^
-||runacjdfe.com^
 ||runads.com^
 ||runadtag.com^
 ||runative-syndicate.com^
@@ -44831,7 +44780,6 @@ a||0-000.store^
 ||stypaphupse.com^
 ||styria-digital.com^
 ||su.addthis.com^
-||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||sub.adzgame.com^
 ||sub.powerapple.com^
 ||sub.xxx-porn-tube.com^
@@ -49483,7 +49431,6 @@ a||0-000.store^
 ||uudzfbzthj.com^
 ||uue2.destinia.ir^
 ||uugupcjwhx.xyz^
-||uujdthyg.com^
 ||uulvtpbx.com^
 ||uuydabxaindfsb.xyz^
 ||uuywe.top^
@@ -50259,7 +50206,6 @@ a||0-000.store^
 ||vizury.com^
 ||vizzit.se^
 ||vjcbm.com^
-||vjdciu.com^
 ||vjianshen1688.com^
 ||vjsoft.net^
 ||vjzlgtnaov.com^
@@ -50801,7 +50747,6 @@ a||0-000.store^
 ||wdads.sx.atl.publicus.com^
 ||wdeliv.net^
 ||wdig.vo.llnwd.net^
-||wdljoioknjduvwi.com^
 ||wdm29.com^
 ||wdmkon.com^
 ||wdmwebs.us^
@@ -51518,7 +51463,6 @@ a||0-000.store^
 ||wiztube.xyz^
 ||wizwarsum.site^
 ||wj.jiancai365.cn^
-||wjdfv.com^
 ||wjgohz.com^
 ||wjikxopltjp.xyz^
 ||wjjsskhcqrsbg.com^
@@ -53245,7 +53189,6 @@ a||0-000.store^
 ||zcrtd.com^
 ||zd.plattedrattons.com^
 ||zdads.e-media.com^
-||zdajdudqfq.com^
 ||zddxlih.com^
 ||zdenochary.com^
 ||zdrady24h.pl^
@@ -53439,7 +53382,6 @@ a||0-000.store^
 ||ziyu.net^
 ||zizcy.com^
 ||zjcxyh.cn^
-||zjdb2b.wang^
 ||zjgfq.com^
 ||zjjrlx4.com^
 ||zjksgl.com^
@@ -53652,7 +53594,6 @@ a||0-000.store^
 ||zysheptany.com^
 ||zytpirwai.net^
 ||zyugar.com^
-||zywhjd.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zyzjpx.cn^
 ||zz.bdstatic.com^
@@ -55000,7 +54941,6 @@ a||0-000.store^
 ||33544444.com^
 ||3356534.work^
 ||336.com^
-||3388pjdc.com^
 ||338f4d497f.com^
 ||339.cn^
 ||3393.com^
@@ -55160,7 +55100,6 @@ a||0-000.store^
 ||3ddf89472c.com^
 ||3de3ac5082.com^
 ||3dm.3dimensional.com^
-||tsjdgzm.m.3dllc.cc^
 ||ga2.3dmgame.com^
 ||3dwwwgame.com^
 ||3eb8f81779.com^
@@ -55532,7 +55471,6 @@ a||0-000.store^
 ||e.598md.cn^
 ||m.598md.cn^
 ||59987d951d.com^
-||59jd.com^
 ||59kaixuan.com^
 ||pic1.59wd.com^
 ||5afc8f3239.com^
@@ -56811,7 +56749,6 @@ a||0-000.store^
 ||agiledata7.com^
 ||seahorseinfo.agilent.com^
 ||stats.v4.agirpourlenvironnement.org^
-||agjfjdtsbuf.top^
 ||agkn.com^
 ||agmqkfhs.xyz^
 ||agrant.cn^
@@ -57157,7 +57094,6 @@ a||0-000.store^
 ||nuloe.alksdh.com^
 ||all-about-tech.com^
 ||data.all-in.de^
-||jdgtgb.all-in.de^
 ||a8cv.all-plan.co.jp^
 ||communications.all-risks.com^
 ||qljiop.allabout.co.jp^
@@ -57176,7 +57112,6 @@ a||0-000.store^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
 ||allfontshere.press^
 ||data.allgaeuer-zeitung.de^
-||jdgtgb.allgaeuer-zeitung.de^
 ||sstats.alliander.com^
 ||snalytics.allianz-assistance.es^
 ||dc.allianz-autowelt.de^
@@ -57687,7 +57622,6 @@ a||0-000.store^
 ||a8clk.audiobook.jp^
 ||audtd.com^
 ||aufp.io^
-||jdgtgb.augsburger-allgemeine.de^
 ||aumeryyaruran.live^
 ||ad-ebis.bookpass.auone.jp^
 ||adebiscname.auone.jp^
@@ -57874,7 +57808,6 @@ a||0-000.store^
 ||as.axelspringer.com^
 ||oil.axelspringer.com^
 ||axeptio.eu^
-||axhntisudyhmxjd.xyz^
 ||axiom.co^
 ||ma.axiomatics.com^
 ||axlsksphvbs.xyz^
@@ -58654,7 +58587,6 @@ a||0-000.store^
 ||kn.bjbrtc.com^
 ||bjcass.com^
 ||bjcwwsc.xyz^
-||photo.bjdfhy.cn^
 ||bjedpt.com^
 ||bjfc.xyz^
 ||bjgztt.com^
@@ -58676,7 +58608,6 @@ a||0-000.store^
 ||bjws.xyz^
 ||bjxiaohua.com^
 ||bjycsb.com^
-||jdg.bjygfd.com^
 ||bjzb.xyz^
 ||bjzshy.cn^
 ||8147563.1954.bk.com^
@@ -59179,7 +59110,6 @@ a||0-000.store^
 ||bzyunduan.cn^
 ||ebis.c-3-esthe.com^
 ||tr.news.c-media.fr^
-||jd.c-ptsp.com.cn^
 ||c0563.com^
 ||c07.xyz^
 ||c137.fun^
@@ -59641,7 +59571,6 @@ a||0-000.store^
 ||e.cfenl.com^
 ||sdk.cferw.com^
 ||cfff.net^
-||cfhijdsb.cn^
 ||cfhlrai.cn^
 ||t.cfjump.com^
 ||cfkkdhs.cn^
@@ -59960,7 +59889,6 @@ a||0-000.store^
 ||21.cizhibaogao.org^
 ||e.cj59c.cn^
 ||cj7g.top^
-||cjde.xyz^
 ||cjenxpjxxhdwtp.xyz^
 ||photo.cjh9.cn^
 ||cjhaoliao.xyz^
@@ -61201,7 +61129,6 @@ a||0-000.store^
 ||solutions.desertfinancial.com^
 ||tr.news.deshotelsetdesiles.com^
 ||5yrra.deshuangwang.cn^
-||jdgtgb.desired.de^
 ||ade.deskstyle.info^
 ||deskt.cn^
 ||emails.destinationamerica.com^
@@ -61781,7 +61708,6 @@ a||0-000.store^
 ||cfcs1.duckdns.org^
 ||jhondi33.duckdns.org^
 ||webwidgetz.duckdns.org^
-||jdgtgb.duden.de^
 ||duerwang.com^
 ||duetads.com^
 ||zqrygp.dufy.com.tr^
@@ -62308,7 +62234,6 @@ a||0-000.store^
 ||embtrk.com^
 ||ecn-analytics-nssl.emc.com^
 ||ecn-analytics.emc.com^
-||imjdmq.emcasa.com^
 ||emccgujavc.xyz^
 ||emcoper.com^
 ||trk-cdpetl.emdlz.com.cn^
@@ -62705,7 +62630,6 @@ a||0-000.store^
 ||dl.health-programs.express-scripts.com^
 ||dl.mail.express-scripts.com^
 ||dl.orders.express-scripts.com^
-||jdgtgb.express.de^
 ||sanalytics.express.de^
 ||clnbze.expressbydgoski.pl^
 ||extole.com^
@@ -62817,7 +62741,6 @@ a||0-000.store^
 ||sadobe.falabella.com.pe^
 ||falkag.net^
 ||flux.faloo.com^
-||jdgtgb.familie.de^
 ||bdlmggcs1.familydoctor.com.cn^
 ||om.familysearch.org^
 ||lnvmxk.familyset.jp^
@@ -63039,7 +62962,6 @@ a||0-000.store^
 ||ffmobi.com^
 ||ffre.ffrepair.com^
 ||ffsmhmcwvlqna.com^
-||ffujdjd.cn^
 ||ffwap.com^
 ||fbc.ffychb.com^
 ||ffyoo.com^
@@ -63154,9 +63076,6 @@ a||0-000.store^
 ||fivetrafficroads.com^
 ||fiwyjar.cn^
 ||f.fj95560.com^
-||fjdfqy.com^
-||fjdvzx.cn^
-||fjdy.cc^
 ||fjjkq.cn^
 ||fjlpyz.cn^
 ||fjlqqc.com^
@@ -63575,7 +63494,6 @@ a||0-000.store^
 ||info.furykeywest.com^
 ||fuse-data.com^
 ||fusionads.net^
-||jdgtgb.fussballfieber.de^
 ||futeboltv.com^
 ||futengbao.com.cn^
 ||tr.news.futuramedia.fr^
@@ -63818,7 +63736,6 @@ a||0-000.store^
 ||gejzgq.gehaltsvergleich.com^
 ||adobeanalytics.geico.com^
 ||trk.geico.com^
-||geijdhbappsenqb.xyz^
 ||geili.co^
 ||geili201911.ink^
 ||geindex.com^
@@ -63968,7 +63885,6 @@ a||0-000.store^
 ||royzgi.giftishow.com^
 ||jaomlf.giftmall.co.jp^
 ||swa.gifts.com^
-||jdgtgb.giga.de^
 ||gigaads.xyz^
 ||gigacpmserv.com^
 ||a8.gigalee.com^
@@ -64365,7 +64281,6 @@ a||0-000.store^
 ||gg.gsdlcn.com^
 ||gsgqwl.wang^
 ||gsgsr.xyz^
-||gsjdzx.com^
 ||gsjlfs.com^
 ||sanalytics.adobe.tp.gskpro.com^
 ||gssdsj.com^
@@ -64765,10 +64680,8 @@ a||0-000.store^
 ||smatrix.hbo.com^
 ||sanalytics.hbobrasil.com^
 ||sanalytics.hbolatam.com^
-||hbssjd.cn^
 ||j.hbwcl.com^
 ||hbyinzhibao.cn^
-||ijdl.hbyongwan.cn^
 ||hbzhurong.cn^
 ||e.hc29x.cn^
 ||e.hc89s.cn^
@@ -66511,53 +66424,6 @@ a||0-000.store^
 ||sjs.jcshouhui.com^
 ||jcsppgv.cn^
 ||m.jcwwxn.com^
-||pic.jd-bbs.com^
-||eokzre.jd-sports.com.au^
-||cc.m.jd.com^
-||dgstatic.jd.com^
-||dsp-x.jd.com^
-||jcm.jd.com^
-||knicks.jd.com^
-||mars.jd.com^
-||x.jd.com^
-||xlog.jd.com^
-||c-nfa.jd.com^
-||cm.jd.com^
-||du.jd.com^
-||im-x.jd.com^
-||img-x.jd.com^
-||jrad.jd.com^
-||jrclick.jd.com^
-||jzt.jd.com^
-||policy.jd.com^
-||stat.m.jd.com^
-||u-x.jd.com^
-||mercury.jd.com^
-||blackhole.m.jd.com^
-||firevent.jd.com^
-||jd5c.top^
-||jd6pq31f.site^
-||jdaa22.top^
-||e.jdaot.com^
-||m.jdaot.com^
-||pic.jdbbs.com^
-||rmw.jdburl.com^
-||dyb.jdcbuy.com^
-||klk.jdflower.cn^
-||stats.jdheyburn.co.uk^
-||m.jdhq188.cn^
-||as.jdkic.com^
-||creative.jdkic.com^
-||jdmsdyuoltpgby.xyz^
-||jdoqocy.com^
-||akwiqx.jdsports.be^
-||gkfdkf.jdsports.co.uk^
-||dxpxgy.jdsports.com^
-||jprbql.jdsports.fr^
-||ezobam.jdsports.nl^
-||jdufvnoytl.com^
-||pic.jdunion.com^
-||jdxq.club^
 ||t9k3a.jeanpaulfortin.com^
 ||jeason.club^
 ||jebb8hurt.com^
@@ -66746,8 +66612,6 @@ a||0-000.store^
 ||jiudianhudong.com^
 ||jiudianxing.cn^
 ||jiudianxing.com^
-||jdb.jiudingcapital.cn^
-||jdb.jiudingcapital.com^
 ||jiuduad.com^
 ||jiuhui878.com^
 ||jiujiushishi.com^
@@ -66767,7 +66631,6 @@ a||0-000.store^
 ||stat.m.jj.cn^
 ||jj123.com.cn^
 ||jjb168.net^
-||jjdtrliuftaouhg.xyz^
 ||jjiv.top^
 ||a.jjqyk.com^
 ||1234.jjxgly.com^
@@ -66896,7 +66759,6 @@ a||0-000.store^
 ||jpovulldaghw.com^
 ||jpushoa.com^
 ||jpuv.cn^
-||jpyjdpal.xyz^
 ||jq159.com^
 ||jq6b.top^
 ||jqcdn.download^
@@ -67137,7 +66999,6 @@ a||0-000.store^
 ||k99.cc^
 ||k9x.net^
 ||a8clk.www.ka-nabell.com^
-||jdgtgb.ka-news.de^
 ||ka185ly.site^
 ||ka5188.com^
 ||stat-ssl.kaago.com^
@@ -67388,7 +67249,6 @@ a||0-000.store^
 ||kiaokuayoutui.com^
 ||adbsmetrics.kiavirtualexperience.com^
 ||kick1pore.com^
-||jdgtgb.kicker.de^
 ||ea.kidiliz.com^
 ||tk.kidsaround.com^
 ||ssc.kidschoiceawards.com^
@@ -67419,7 +67279,6 @@ a||0-000.store^
 ||moupdate1.kingsoft-office-service.com^
 ||rating6.kingsoft-office-service.com^
 ||up.wps.kingsoft.com^
-||jdgtgb.kino.de^
 ||kinogogly.pro^
 ||kinohabr.net^
 ||kinostuff.com^
@@ -67628,7 +67487,6 @@ a||0-000.store^
 ||uid.ksosoft.com^
 ||ap.ksrong.com^
 ||t.ksrong.com^
-||jdgtgb.ksta.de^
 ||sanalytics.ksta.de^
 ||a8cv.kstarselect.com^
 ||ksxb.ltd^
@@ -67865,12 +67723,10 @@ a||0-000.store^
 ||lahair.biz^
 ||cms.laifeng.com^
 ||m.laigame7.net^
-||laijd.cn^
 ||laiququan.com^
 ||lajidewanyi.top^
 ||lajimeiguo.top^
 ||marketing.lakecountyfl.gov^
-||laksjd4.com^
 ||lalaaal.cn^
 ||tr.communication.lamaisondesstartups.com^
 ||tk.lamaisonduchocolat.com^
@@ -68209,7 +68065,6 @@ a||0-000.store^
 ||jc.lgtianma.cn^
 ||e.lguir.com^
 ||m.lguir.com^
-||lgxoyjjdunlwrhp.xyz^
 ||lhafy.com^
 ||lhbdpnhdjcxtr.xyz^
 ||gcm.lhhxlj.com^
@@ -68801,7 +68656,6 @@ a||0-000.store^
 ||t.lzrkj.top^
 ||lzscagcpmroyyz.com^
 ||x.lzspf.com^
-||lzthjd.cn^
 ||lzwnb.site^
 ||lzxnhul.cn^
 ||lzylgnd.cn^
@@ -68910,7 +68764,6 @@ a||0-000.store^
 ||main5poem.com^
 ||marketing.mainlandmachinery.com^
 ||data.mainpost.de^
-||jdgtgb.mainpost.de^
 ||marketing.mainstream-tech.com^
 ||maipinshangmao.com^
 ||s.maipubao.cn^
@@ -69257,7 +69110,6 @@ a||0-000.store^
 ||meilmei.xyz^
 ||s.meimeidaren.com^
 ||ftaysn.meinekette.de^
-||jdgtgb.meineorte.com^
 ||meineserver.com^
 ||mlm-tracking-service.meinestadt.de^
 ||navigation-timing.meinestadt.de^
@@ -69907,7 +69759,6 @@ a||0-000.store^
 ||pub.mop.com^
 ||union.mop.com^
 ||mopinion.com^
-||jdgtgb.mopo.de^
 ||moprujg.cn^
 ||moquanad.com^
 ||morbitempus.com^
@@ -70026,7 +69877,6 @@ a||0-000.store^
 ||mstgc.com^
 ||content.msufcu.org^
 ||m.msuik.cn^
-||msujd.cn^
 ||msyq.xyz^
 ||s.mt145.com^
 ||mt48.net^
@@ -70040,8 +69890,6 @@ a||0-000.store^
 ||logx.mtime.com^
 ||mtk.pub^
 ||mtlsari.cn^
-||ee.mtmfjdo.cn^
-||m.mtmfjdo.cn^
 ||mtmob.com^
 ||mtoor.com^
 ||mtqdji.cn^
@@ -71145,7 +70993,6 @@ a||0-000.store^
 ||swebmetrics.oklahoma.gov^
 ||hcjpbc.okmagazine.com^
 ||okmgy.cn^
-||okmjd.com^
 ||okokw.com^
 ||baid1.okooo.com^
 ||ioek.okshishi.com^
@@ -71645,8 +71492,6 @@ a||0-000.store^
 ||pcfdgc.cn^
 ||hawk.pcgamer.com^
 ||count.pcgames.com.cn^
-||jdgtgb.pcgames.de^
-||jdgtgb.pcgameshardware.de^
 ||pchkhlskear.xyz^
 ||adcl.pchome.com.tw^
 ||stat.pchome.net^
@@ -71681,7 +71526,6 @@ a||0-000.store^
 ||pds-midea.com^
 ||pdsvrtb.cn^
 ||pdsxp.cn^
-||pdtqjd.cn^
 ||pdxor02.com^
 ||pdxubxc.cn^
 ||hd.pe.fr^
@@ -71774,7 +71618,6 @@ a||0-000.store^
 ||pgames.club^
 ||branch.pgatour-mail.com^
 ||swebanalytics.pgatour.com^
-||pghwwjd.com^
 ||pgl7.cn^
 ||pglstatp-toutiao.com^
 ||plausible.pgmustard.com^
@@ -71943,7 +71786,6 @@ a||0-000.store^
 ||pjcn.org^
 ||pjewriw.top^
 ||pjj9su.xyz^
-||pjjlbjd.cn^
 ||ssl86.pjshw.cn^
 ||pjsxebh.com^
 ||pjtra.com^
@@ -72337,7 +72179,6 @@ a||0-000.store^
 ||proxyindia.net^
 ||proxytpb.pw^
 ||stat.prsmedia.fr^
-||prsrjdr.ru^
 ||prssifu.cn^
 ||prt-or-067.com^
 ||prtawe.com^
@@ -73239,7 +73080,6 @@ a||0-000.store^
 ||raupsooy.net^
 ||ravelin.net^
 ||fipsta.ravensberger-matratzen.de^
-||rawgsjd.cn^
 ||sshhfy.ray-ban.com^
 ||rayli.com.cn^
 ||razasot.cn^
@@ -73451,7 +73291,6 @@ a||0-000.store^
 ||gksqfw.reverso.net^
 ||reviewability.com^
 ||revinate.com^
-||48z7wyjdsywu.www.revistaferramental.com.br^
 ||stats.revit-content.com^
 ||revlifter.io^
 ||revmob.com^
@@ -73901,7 +73740,6 @@ a||0-000.store^
 ||algrcr.sandro-paris.com^
 ||nhkoze.saneibd.com^
 ||lkf1.m.sanhao3.com^
-||jdbjhd.saniweb.nl^
 ||m.sanjiangge.com^
 ||sankezhi.cn^
 ||sankoup.com^
@@ -74638,7 +74476,6 @@ a||0-000.store^
 ||m.sjaidu.com^
 ||e.sjc1v.cn^
 ||sjcm.fun^
-||sjdjcn.cn^
 ||sjeklqx.cn^
 ||sjjk.ltd^
 ||e.sjkfe.com^
@@ -74669,9 +74506,6 @@ a||0-000.store^
 ||skfj4d.xyz^
 ||skfj5d.com^
 ||skfj5d.xyz^
-||skfjd1.com^
-||skfjd1.xyz^
-||skfjdf.xyz^
 ||skfqxkk.cn^
 ||skfrmkithq.xyz^
 ||stats.ski.com^
@@ -75105,7 +74939,6 @@ a||0-000.store^
 ||a8clk.campaigns.speed-kaitori.jp^
 ||rgiixp.sperry.com^
 ||sams.spiegel.de^
-||jdgtgb.spieletipps.de^
 ||spinnaker-js.com^
 ||secure.spit0stge.com^
 ||marketing.splashtop.com^
@@ -75408,14 +75241,12 @@ a||0-000.store^
 ||styld-by.com^
 ||as.stylebook.de^
 ||a8clk.stylestore.jp^
-||jdgtgb.stylevamp.de^
 ||stats.stylight.it^
 ||ds-recommender.styria.hr^
 ||traffic.styria.hr^
 ||o.su9orw.cn^
 ||s1.subaru.com^
 ||m3ds.subarumetropolitain.com^
-||payqjd.subito.it^
 ||stats.blog.sublimesecurity.com^
 ||stats.sublimesecurity.com^
 ||subloader.cf^
@@ -75426,7 +75257,6 @@ a||0-000.store^
 ||sucloe.com^
 ||tr.courrier.sudouest.fr^
 ||suedai.com^
-||jdgtgb.suedkurier.de^
 ||e.suehy.com^
 ||m.suehy.com^
 ||stats.suenicholls.com^
@@ -75578,7 +75408,6 @@ a||0-000.store^
 ||sxdyrq.com^
 ||sxhjty.cn^
 ||sxieqbu.cn^
-||sxjcjdc.cn^
 ||sxjkc.cn^
 ||sy.sxjxhg.com^
 ||jjk.sxklm.cn^
@@ -75592,7 +75421,6 @@ a||0-000.store^
 ||slb.sxuantang.com^
 ||m.sxxca.com^
 ||sxxfmc.com^
-||sxxjdz.com^
 ||sxyunyou.cn^
 ||sxyzhdf.cn^
 ||c.sy123888.com^
@@ -75612,7 +75440,6 @@ a||0-000.store^
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.notification-gdpr.sygmabybnpparibas-pf.com^
 ||syiae.com^
-||syjjd.club^
 ||syks.xyz^
 ||sym.zone^
 ||clicktime.symantec.com^
@@ -75679,7 +75506,6 @@ a||0-000.store^
 ||direct.t-mobile.com^
 ||targetab.t-mobile.com^
 ||consent.t-mobile.cz^
-||jdgtgb.t-online.de^
 ||t06.xyz^
 ||t157.com^
 ||t1g2.cn^
@@ -76150,7 +75976,6 @@ a||0-000.store^
 ||tffavlypd.xyz^
 ||tffkroute.com^
 ||tffytdo.cn^
-||tfjdafegolwrcr.xyz^
 ||tfptlgrw.co^
 ||tfptlgrw.live^
 ||tfw73.online^
@@ -76294,7 +76119,6 @@ a||0-000.store^
 ||cmp.cdn.thesun.ie^
 ||sourcepoint.thetakeout.com^
 ||thetaweblink.com^
-||gpiljd.thetiebar.com^
 ||t.comms.thetimes.co.uk^
 ||t.newsletter.thetimes.co.uk^
 ||t.service.thetimes.co.uk^
@@ -77016,7 +76840,6 @@ a||0-000.store^
 ||twitterforweb.com^
 ||twittericon.com^
 ||twittermysite.com^
-||jdgtgb.twitterperlen.de^
 ||twitthis.com^
 ||twjsx.cn^
 ||twjxmd.com^
@@ -77080,7 +76903,6 @@ a||0-000.store^
 ||tzlit.cn^
 ||tzngisyi.xyz^
 ||kn.tzsmab.cn^
-||njd.tzxianghao.cn^
 ||static.tzyiyuantuan.com^
 ||u-mob.cn^
 ||u05.xyz^
@@ -77411,7 +77233,6 @@ a||0-000.store^
 ||uq7c.top^
 ||uqakkye.cn^
 ||uqaqmc.cn^
-||uqbeohoajdqvcfe.xyz^
 ||uqbmzwv.cn^
 ||uqidian.com^
 ||uqnggnst.fun^
@@ -78022,7 +77843,6 @@ a||0-000.store^
 ||voiceads.com^
 ||log.voicecloud.cn^
 ||cqpmvc.voici.fr^
-||voihkjd.cn^
 ||johannes.voith.com^
 ||volantix.com^
 ||volksbund-cookie.de^
@@ -78277,7 +78097,6 @@ a||0-000.store^
 ||link.watchoxygen.com^
 ||hda.watchtimes.com.cn^
 ||s.waterloochronicle.ca^
-||jdgtgb.watson.de^
 ||bd.watu.cn^
 ||daima.wauee.cc^
 ||api.anti.wauee.com^
@@ -78341,7 +78160,6 @@ a||0-000.store^
 ||wdtuxxjy.xyz^
 ||e.wduis.com^
 ||m.wduis.com^
-||wduwvjd.cn^
 ||wdxxx.top^
 ||wdymwzz.com^
 ||we-stats.com^
@@ -78506,7 +78324,6 @@ a||0-000.store^
 ||act.wernerelectric.com^
 ||m.wervp.com^
 ||wescam.info^
-||jdgtgb.weser-kurier.de^
 ||dl.weshineapp.com^
 ||wesiedu.com^
 ||plausible.west.io^
@@ -78796,7 +78613,6 @@ a||0-000.store^
 ||wiyun.com^
 ||twiz.wizaly.fr^
 ||e.wj57g.cn^
-||wjdmprn.cn^
 ||wjgglm.com^
 ||wjhstylq.com^
 ||e.wjier.com^
@@ -79480,7 +79296,6 @@ a||0-000.store^
 ||app.xixiashengdian.com^
 ||app.xizi.com^
 ||xj40666.vip^
-||conabi.xjditan.com^
 ||xjfyx.com^
 ||xjjkjo.pw^
 ||xjjkxcg.cn^
@@ -79588,7 +79403,6 @@ a||0-000.store^
 ||xpchfwl.cn^
 ||xpdjsd.cn^
 ||xpeeps.com^
-||xpizjd4.cn^
 ||xpj8088.com^
 ||e.xpjis.com^
 ||m.xpjis.com^
@@ -80609,7 +80423,6 @@ a||0-000.store^
 ||zaihu99.ltd^
 ||zaixianweiyuanchuang.cn^
 ||cf.zaiyunli.cn^
-||nwajdf.zakzak.co.jp^
 ||zminer.zaloapp.com^
 ||services.zam.com^
 ||zamar.cn^
@@ -80864,7 +80677,6 @@ a||0-000.store^
 ||dam.zhqryw.cn^
 ||zhrrrec.cn^
 ||eer.zhthf.com^
-||zhtjdl.com^
 ||zhuahu.com^
 ||fw.zhuaji.org^
 ||pk.zhuaji.org^
@@ -80947,7 +80759,6 @@ a||0-000.store^
 ||zjsyawqj.cn^
 ||zjttaqx.cn^
 ||dig.zjurl.cn^
-||jdw.zjuwjdc.com^
 ||zjws.xyz^
 ||zjzs.club^
 ||zk6.me^
@@ -80993,7 +80804,6 @@ a||0-000.store^
 ||zmzfile.com^
 ||fxbqag.znak.com^
 ||znctrack.net^
-||zndaowjdnf.stream^
 ||znfg6677.top^
 ||znlgplt.com^
 ||znqip.net^
@@ -83275,7 +83085,6 @@ a||0-000.store^
 0.0.0.0 e-2dj6wfk4skdpogo.stats.esomniture.com
 0.0.0.0 e-2dj6wfkiakdjgcp.stats.esomniture.com
 0.0.0.0 e-2dj6wfkiepczoeo.stats.esomniture.com
-0.0.0.0 e-2dj6wfkikjd5glq.stats.esomniture.com
 0.0.0.0 e-2dj6wfkiokc5odp.stats.esomniture.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
 0.0.0.0 e-2dj6wfkocjczedo.stats.esomniture.com
@@ -83301,7 +83110,6 @@ a||0-000.store^
 0.0.0.0 e-2dj6wgkyomdpalp.stats.esomniture.com
 0.0.0.0 e-2dj6whkiandzkko.stats.esomniture.com
 0.0.0.0 e-2dj6whkiepd5iho.stats.esomniture.com
-0.0.0.0 e-2dj6whkiwjdjwhq.stats.esomniture.com
 0.0.0.0 e-2dj6wjk4amd5mfp.stats.esomniture.com
 0.0.0.0 e-2dj6wjk4kkcjalp.stats.esomniture.com
 0.0.0.0 e-2dj6wjk4ukazebo.stats.esomniture.com
@@ -83447,7 +83255,6 @@ a||0-000.store^
 0.0.0.0 iprocollect.realmedia.com
 0.0.0.0 istat.biz
 0.0.0.0 izarc.fr
-0.0.0.0 jdownloader.fr
 0.0.0.0 jgoyk.cjt1.net
 0.0.0.0 jkearns.freestats.com
 0.0.0.0 js.cybermonitor.com
@@ -85030,7 +84837,6 @@ a||0-000.store^
 0.0.0.0 matchendiredt.fr
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0 mcleaks.fr
-0.0.0.0 mdjdg.girlssohorny.net
 0.0.0.0 media-match.com
 0.0.0.0 mediaterre.fr
 0.0.0.0 medicalhero.fr
@@ -85934,7 +85740,6 @@ a||0-000.store^
 0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jbit.cjt1.net
 0.0.0.0 jcollegehumor.cjt1.net
-0.0.0.0 jdownloadacc.cjt1.net
 0.0.0.0 jgen1.cjt1.net
 0.0.0.0 jgen10.cjt1.net
 0.0.0.0 jgen11.cjt1.net
@@ -94919,7 +94724,6 @@ a||0-000.store^
 ||3ca28642b714623b2.com^
 ||3cinteractive.com^
 ||3d.sybnzs.cn^
-||3djd3.xyz^
 ||3dm.huya.com^
 ||3dqiang.com^
 ||3e53df6c390.com^
@@ -95923,7 +95727,6 @@ a||0-000.store^
 ||ads.traffichunt.com^
 ||ads.ttv.com.tw^
 ||ads.undertone.com^
-||ads.union.jd.com^
 ||ads.us.e-planning.net^
 ||ads.use1.prod.vidible.tv^
 ||ads.vcnc.co.kr^
@@ -96097,7 +95900,6 @@ a||0-000.store^
 ||affiliation.fotovista.com^
 ||affilsoft.gotrackier.com^
 ||affluencepaymentlandscape.com^
-||afgfjdivrf.com^
 ||afjxriipst.com^
 ||aflnmjefijas.com^
 ||aflrm.com^
@@ -96153,7 +95955,6 @@ a||0-000.store^
 ||ahidsply.com^
 ||ahinang.cn^
 ||ahinin.cn^
-||ahjdsply.com^
 ||ahm.jiankang123.net^
 ||ahojer.com^
 ||ahqlx.top^
@@ -96238,7 +96039,6 @@ a||0-000.store^
 ||akrazappi.com^
 ||akrwi.cn^
 ||aksdk-images.adikteev.com^
-||aksjdfk.guohexinxiang.com^
 ||aksldkjfd.11jianzhan.com^
 ||akstat.io.edgekey.net^
 ||akxsrsdbursfpx.bid^
@@ -96264,7 +96064,6 @@ a||0-000.store^
 ||aliguojw.com^
 ||alimama.link^
 ||alimc1.top^
-||aliqqjd.cn^
 ||aliseshop.com^
 ||alisierboutell.com^
 ||alitianxia168.com^
@@ -96275,7 +96074,6 @@ a||0-000.store^
 ||aliyunf.xyz^
 ||aliyunj.xyz^
 ||aliyunwang.top^
-||aljdkjkdlskf.shunlianhudong.com^
 ||alkdfjksl.yijiahyvip.com^
 ||alksdh.com^
 ||alkskdjf.chixingkeji.com^
@@ -97877,7 +97675,6 @@ a||0-000.store^
 ||bxgz.cc^
 ||bxjpl.cn^
 ||bxjt518.com^
-||bxkxzjdjxeexi.com^
 ||bxqgxnechpwojfo.com^
 ||bxsfvqhzj.com^
 ||bxsjfol.cn^
@@ -98061,7 +97858,6 @@ a||0-000.store^
 ||cbola-logging-1-t3.us-east-1.elasticbeanstalk.com^
 ||cbola-psa.us-east-1.elasticbeanstalk.com^
 ||cbuacategic.xyz^
-||cbvjddh.23txt.com^
 ||cbxxlecddlrd.com^
 ||cby521.cn^
 ||cby521.com^
@@ -98289,7 +98085,6 @@ a||0-000.store^
 ||cfasync.cf^
 ||cfbenchcl.com^
 ||cfbwxgsa.com^
-||cfclhaqhjdtw.com^
 ||cfcn.allocine.net^
 ||cfenl.com^
 ||cfeo.bealge.sogou.com^
@@ -99426,7 +99221,6 @@ a||0-000.store^
 ||dfdybylchujl.com^
 ||dffaernr.com^
 ||dfggb.cc^
-||dfjbgfldsjdsnldksjalld1235.cn^
 ||dflooring.com^
 ||dfmngtubtdfxnq.com^
 ||dfp.bouncex.net^
@@ -99449,7 +99243,6 @@ a||0-000.store^
 ||dhdgkj.com^
 ||dhejr.cn^
 ||dhg-logging.us-east-1.elasticbeanstalk.com^
-||dhilyjdw.com^
 ||dhkwxpzgvqgr.com^
 ||dhlmy.com^
 ||dhonon.com^
@@ -99538,12 +99331,10 @@ a||0-000.store^
 ||ditookry.com^
 ||dittyharsh.com^
 ||diwenganzaoji.com^
-||diyxjd.com^
 ||dizhonghaihotel.com^
 ||dj.renren.com^
 ||dj09j5u.cn^
 ||dj930.cn^
-||djdecsdwjdgemj.com^
 ||djgfsrlt.com^
 ||djhbxz.com^
 ||djhhy.com^
@@ -99631,8 +99422,6 @@ a||0-000.store^
 ||dngqrlcxesropm.xyz^
 ||dnm.scloud.lfengmobile.com^
 ||dnrmvpdhmaacsa.com^
-||dns.jd.com.gslb.qianxun.com^
-||dns.jd.com^
 ||dnsri.com^
 ||dntchnyghet.com^
 ||dnupzdn.cn^
@@ -100068,7 +99857,6 @@ a||0-000.store^
 ||eitiso.com^
 ||eivbjsegbino.com^
 ||eiyhjkqued.com^
-||ejd3q.life^
 ||ejeenews.com^
 ||ejghgjhhgadcdchjaada.ru.^
 ||ejghw.cn^
@@ -101006,7 +100794,6 @@ a||0-000.store^
 ||gdfp.gifshow.com^
 ||gdhdfs.com^
 ||gdjvznzeik.com^
-||gdlnldbvjdt.com^
 ||gdlvbiaokeji.cn^
 ||gdmjskjx.com^
 ||gdrvwsqlikh.com^
@@ -101738,7 +101525,6 @@ a||0-000.store^
 ||hibernateagitationpre.com^
 ||hibymura.com^
 ||hicodg.com^
-||hicuojdauo.com^
 ||hiddell.com^
 ||hidelen.com^
 ||hidner.com^
@@ -101837,7 +101623,6 @@ a||0-000.store^
 ||homicidearousedhand.com^
 ||homify.com.mx^
 ||homomqmfbomoy.com^
-||hondajd.cn^
 ||hondasamulla.com^
 ||honeycombdoggie.com^
 ||honeyledger.cam^
@@ -101942,7 +101727,6 @@ a||0-000.store^
 ||huayancn.cn^
 ||huayi65.com^
 ||hub.securedtouch.com^
-||hubojd.com^
 ||hudiecaifu.com^
 ||hududushy.com^
 ||hueekqx.cn^
@@ -102507,7 +102291,6 @@ a||0-000.store^
 ||iyuey.com^
 ||iyygzs.com^
 ||izeiiemb.com^
-||izewuzabgcojd.com^
 ||izouo.com^
 ||izpcoo.cn^
 ||izzzovhvisnxgy.com^
@@ -102575,18 +102358,6 @@ a||0-000.store^
 ||jctflx.xyz^
 ||jcwwxn.com^
 ||jcxcvqc.cn^
-||jdaot.com^
-||jdbzurmhiixqm.com^
-||jdcbuy.com^
-||jdf494.cn^
-||jdflower.cn^
-||jdiaveu.cn^
-||jdlcg.cn^
-||jdlhg.com^
-||jdsy.ltd^
-||jduiv.com^
-||jdyz3.cn^
-||jdzbcdnd.com^
 ||jealouslacklesslackless.com^
 ||jebadu.com^
 ||jebaziwhe.com^
@@ -102695,7 +102466,6 @@ a||0-000.store^
 ||jirivsoxvdk.com^
 ||jisufeifei.com^
 ||jisyzysy.com^
-||jiu.njdkgm.com^
 ||jiucaishuo.cn^
 ||jiudiandyw.com^
 ||jiuji.ltd^
@@ -102763,7 +102533,6 @@ a||0-000.store^
 ||joeputa.xyz^
 ||johalf.com^
 ||johnston.grapeshot.co.uk^
-||jojdvmcgjdt.com^
 ||jojilabola.com^
 ||jollyfamilygifts.net^
 ||jomys.xyz^
@@ -102981,7 +102750,6 @@ a||0-000.store^
 ||kanasmeedful.com^
 ||kanfaxing.com^
 ||kanghuaixin.cn^
-||kanglaijd.cn^
 ||kanoonhymens.com^
 ||kantv.pub^
 ||kaocha.net^
@@ -103108,7 +102876,6 @@ a||0-000.store^
 ||kityko.com^
 ||kivaphugri.com^
 ||kjbipwznkbtybs.com^
-||kjdw.com.cn^
 ||kjfhe.com^
 ||kjggk1.xyz^
 ||kjhfy.com^
@@ -103213,7 +102980,6 @@ a||0-000.store^
 ||ksaggspp.xyz^
 ||ksdayhtj.shop^
 ||ksdlzcmvmj.com^
-||ksdqhiaythajdv.com^
 ||ksdsuzhou.com^
 ||ksharu.com^
 ||kshks5.site^
@@ -103322,7 +103088,6 @@ a||0-000.store^
 ||laiye315.top^
 ||lajizhan.org^
 ||lakersfanshoponline.com^
-||lakjdskls.zhdchb.com^
 ||laksdn.com^
 ||lala-my.club^
 ||lamiumericius.com^
@@ -103597,7 +103362,6 @@ a||0-000.store^
 ||ljxueswsp.com^
 ||ljyaqiggcpkica.com^
 ||lkcgvcdmc.com^
-||lkkskdkfjdk.qiangquanvip.com^
 ||lklrmjbmnhnn.com^
 ||lknad215.top^
 ||lktxelg.cn^
@@ -103681,8 +103445,6 @@ a||0-000.store^
 ||log.ifood.tv^
 ||log.intellimize.co^
 ||log.isnssdk.com^
-||log.jd.com.gslb.qianxun.com^
-||log.jd.com^
 ||log.kcisa.kr^
 ||log.leadboxer.com^
 ||log.moviebox.baofeng.com^
@@ -104651,7 +104413,6 @@ a||0-000.store^
 ||mixmarket.biz^
 ||mixwevri.com^
 ||mj23.eulerian.com^
-||mjdnarks.cn^
 ||mjg0310.com^
 ||mjjppdbqrlo.com^
 ||mjnakecyospspgf.com^
@@ -104907,7 +104668,6 @@ a||0-000.store^
 ||mwzbp.iask.com.cn^
 ||mwzeom.zeotap.com^
 ||mx.biquge.info^
-||mxabetogiycjdp.com^
 ||mxdregs.com^
 ||mxdztgstli.com^
 ||mxeinvwitjitk.com^
@@ -105006,7 +104766,6 @@ a||0-000.store^
 ||nbasicalbuffere.info^
 ||nbgairiest.com^
 ||nbhxgjz.com^
-||nbjjd.com^
 ||nbjmp.com^
 ||nbk.lm226.com^
 ||nbkaflrbqlkqx.com^
@@ -105305,7 +105064,6 @@ a||0-000.store^
 ||nveqipk.cn^
 ||nvidpn.com^
 ||nvironymscli.info^
-||nvmjdpbjgrh.com^
 ||nvr.jiangjiu.org.cn^
 ||nvrkw.cn^
 ||nvshuyun.com^
@@ -105423,7 +105181,6 @@ a||0-000.store^
 ||oensil.com^
 ||oeocriaq.cn^
 ||oepihvxwaboed.com^
-||oerljdvj.com^
 ||oesnw.com^
 ||oevqxivhquovq.com^
 ||oeyiamwpj.com^
@@ -105867,7 +105624,6 @@ a||0-000.store^
 ||pca.admarketplace.net^
 ||pcaoo.com^
 ||pcdnlt.com^
-||pcjdyp.com^
 ||pcmzn.com^
 ||pcommaging.site^
 ||pcpfxfqlpygr.com^
@@ -106371,7 +106127,6 @@ a||0-000.store^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psozyhotho.pro^
-||pstjdcfhqxwjops.com^
 ||psucnqdrke.com^
 ||psugeglapha.com^
 ||psuglymave.com^
@@ -106532,7 +106287,6 @@ a||0-000.store^
 ||qdayipnsir.com^
 ||qdbh.store^
 ||qdcusfff.com^
-||qdeqwcljdplx.com^
 ||qdff.zxwstong.com^
 ||qdftsac.cn^
 ||qdiut.com^
@@ -106722,7 +106476,6 @@ a||0-000.store^
 ||qwwjgmpfpthke.com^
 ||qxazefkhgayy.com^
 ||qxfly.com^
-||qxjdlf.com^
 ||qxniowwbdnhnn.com^
 ||qxyu.top^
 ||qyafndr.cn^
@@ -107227,7 +106980,6 @@ a||0-000.store^
 ||rynlrkqgyjqfaxs.com^
 ||ryshekeha.com^
 ||rywoments.info^
-||ryynoljdarrw.com^
 ||rzbkusrz.com^
 ||rzjslm.com^
 ||rzqctiudsvb.com^
@@ -107860,7 +107612,6 @@ a||0-000.store^
 ||shoescreak.com^
 ||sholombombic.com^
 ||shongcheng.com^
-||shooter.m.jd.com^
 ||shop.spreadshirt.com^
 ||shophustivu.com^
 ||shoppingpartners2.futurenet.com^
@@ -107979,7 +107730,6 @@ a||0-000.store^
 ||sjuqc.com^
 ||sjy-stone.com.cn^
 ||skatehot.net^
-||skdisplay.jd.com^
 ||skellbillard.com^
 ||sketeprofs.com^
 ||skewlyundazed.com^
@@ -110841,7 +110591,6 @@ a||0-000.store^
 ||uhor8.cn^
 ||uhxdsplo.com^
 ||uhytajrtpo-a.akamaihd.net^
-||uhzjdfpccxtne.com^
 ||ui91q.cn^
 ||uidndas.cn^
 ||uihxtyagqysh.com^
@@ -111706,7 +111455,6 @@ a||0-000.store^
 ||wish.securedtouch.com^
 ||withad.cn^
 ||withoughdv.xyz^
-||wjdjcjcm444.cn^
 ||wjguc.com^
 ||wjier.com^
 ||wjyljl.cn^
@@ -112100,7 +111848,6 @@ a||0-000.store^
 ||www.kprbexp21.com^
 ||www.kukulm.com^
 ||www.lack4skip.com^
-||www.laksjd4.com^
 ||www.lane5down.com^
 ||www.lansrv020.com^
 ||www.lansrv030.com^
@@ -112172,7 +111919,6 @@ a||0-000.store^
 ||www.oita4bali.com^
 ||www.okc-5190.com^
 ||www.okc-5191.com^
-||www.okqjdn.com^
 ||www.optimum-xyz.com^
 ||www.otto5loki.com^
 ||www.page1monk.com^
@@ -113297,7 +113043,6 @@ a||0-000.store^
 ||ziyuantx.com^
 ||zizidi.com^
 ||zizikagle.com^
-||zizpjdnvkks.com^
 ||zjhoudao.com^
 ||zjhrondo.cn^
 ||zjjbtl.com^
@@ -113306,14 +113051,12 @@ a||0-000.store^
 ||zjliloveyou.ixiunv.com^
 ||zjqhyx.cn^
 ||zjrtuhds.top^
-||zjuwjdc.com^
 ||zjwwbznpcqhk.com^
 ||zjxkdq.cn^
 ||zjxrg.top^
 ||zkba9.cn^
 ||zkbkcdhieqcoev.com^
 ||zkfborg.cn^
-||zkqqsjdgscrwm.com^
 ||zkrdy.com^
 ||zkrmeml.cn^
 ||zl588.com^
@@ -113884,7 +113627,6 @@ a||0-000.store^
 127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 b1.ads.oppomobile.com
-127.0.0.1 bjdata.ads.oppomobile.com
 127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 dataf.ads.oppomobile.com
 127.0.0.1 g1.ads.oppomobile.com
@@ -113963,7 +113705,6 @@ a||0-000.store^
 127.0.0.1 adpai.thepaper.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 fbapi.guguread.com
-127.0.0.1 jrad.jd.com
 127.0.0.1 api.adnet.mob.com
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 api1.888zy.cn
@@ -114098,8 +113839,6 @@ a||0-000.store^
 127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 api.touchxd.com
 127.0.0.1 b-gi.getui.com
-127.0.0.1 kepler.jd.com
-127.0.0.1 orbit.jd.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 api-luckycoinsdk.doglobal.net
 127.0.0.1 durdcn.doglobal.net
@@ -115363,7 +115102,6 @@ IP-CIDR,60.211.171.128/29
 IP-CIDR,60.211.211.1/32
 #99 提交的公告 未测试是否误杀
 #以下为杭州公交 APP 的广告调用地址，含京东广告
-127.0.0.1 im-x.jd.com
 127.0.0.1 ad.ipadview.com
 #以下为某些不可描述网站加载的乱七八糟广告
 127.0.0.1 .maizhenai.cn
@@ -116318,7 +116056,6 @@ IP-CIDR,51.89.187.143/32
 127.0.0.1 538b5d8f303be.com
 127.0.0.1 53gem.com
 127.0.0.1 543993d.com
-127.0.0.1 54askjdklm.xyz
 127.0.0.1 550b3ikb9j.com
 127.0.0.1 550tg.com
 127.0.0.1 551vip.xyz
@@ -116340,7 +116077,6 @@ IP-CIDR,51.89.187.143/32
 127.0.0.1 56space.com
 127.0.0.1 5726303d87522d05.com
 127.0.0.1 572k3.com
-127.0.0.1 573569djd.com
 127.0.0.1 5735fda733.com
 127.0.0.1 5783.org
 127.0.0.1 57e3ascxh1.com
@@ -116955,7 +116691,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 9purdfe9xg.com
 127.0.0.1 9rendezvous-l.com
 127.0.0.1 9t5.me
-127.0.0.1 9tp9jd4p.de
 127.0.0.1 9tumza4dp4o9.com
 127.0.0.1 9utwbj08.top
 127.0.0.1 9v58v.com
@@ -118025,7 +117760,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
-127.0.0.1 ads-union.jd.com
 127.0.0.1 ads-yallo-production.imgix.net
 127.0.0.1 ads.365.mk
 127.0.0.1 ads.4tube.com
@@ -118800,7 +118534,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 aec40f9e073ba6.com
 127.0.0.1 aeckcjy.com
 127.0.0.1 aecrmkbxb.xyz
-127.0.0.1 aecyrdlcvjdfcus.com
 127.0.0.1 aedqunriyswthc.com
 127.0.0.1 aeeg5idiuenbi7erger.com
 127.0.0.1 aeesy.com
@@ -118929,7 +118662,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afftrackr.com
 127.0.0.1 afftrk.online
-127.0.0.1 afgfjdivrf.com
 127.0.0.1 afgham.com
 127.0.0.1 afgjbleiuoqt.com
 127.0.0.1 afgotpyb.com
@@ -119037,7 +118769,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 agilespatter.com
 127.0.0.1 agisdayra.com
 127.0.0.1 agitatesuggestneighbouring.com
-127.0.0.1 agjfjdtsbuf.top
 127.0.0.1 agjy6.com
 127.0.0.1 agkjigcuh.com
 127.0.0.1 agkn.com
@@ -119070,7 +118801,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 agriculturealso.com
 127.0.0.1 agrigh.com
 127.0.0.1 agrothoo.net
-127.0.0.1 agrrjyugyjdb.com
 127.0.0.1 ags.hobby.porn
 127.0.0.1 agsgupei.top
 127.0.0.1 agtsjb.com
@@ -119106,7 +118836,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ahh6.cn
 127.0.0.1 ahhdsply.com
 127.0.0.1 ahidsply.com
-127.0.0.1 ahjdsply.com
 127.0.0.1 ahjinhuayi.com
 127.0.0.1 ahjkpqn.cn
 127.0.0.1 ahjzys.com
@@ -119270,7 +118999,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ajastlyirf.com
 127.0.0.1 ajavivmahpuk.com
 127.0.0.1 ajbvvvyupv.com
-127.0.0.1 ajdgssgxsesg.xyz
 127.0.0.1 ajeebgbt.top
 127.0.0.1 ajestigie.com
 127.0.0.1 ajevigie.com
@@ -120039,7 +119767,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 aqfwigotem.xyz
 127.0.0.1 aqgyju.cn
 127.0.0.1 aqiwxzv.cn
-127.0.0.1 aqjdigkqvmakz.com
 127.0.0.1 aqkkoalfpz.com
 127.0.0.1 aqmgnoik.com
 127.0.0.1 aqnpbpa.cn
@@ -120047,7 +119774,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 aqqehupwcg.com
 127.0.0.1 aqqrfksdx.com
 127.0.0.1 aqrhddwipyo.com
-127.0.0.1 aqskkeipxyjdn.com
 127.0.0.1 aqsvwnaodrjubmo.com
 127.0.0.1 aquabibchawed.website
 127.0.0.1 aquaticowl.com
@@ -120159,7 +119885,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 arrowdevastatingconstruction.com
 127.0.0.1 arrowrictus.com
 127.0.0.1 arrreeject.com
-127.0.0.1 arrwjdoafypygo.com
 127.0.0.1 arshelmeton.com
 127.0.0.1 arshineensnarl.com
 127.0.0.1 arsnivyr.com
@@ -120763,7 +120488,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 axfrb.cn
 127.0.0.1 axfvc.cn
 127.0.0.1 axfvv.cn
-127.0.0.1 axhntisudyhmxjd.xyz
 127.0.0.1 axill.com
 127.0.0.1 axillovely.com
 127.0.0.1 axiomaticalley.com
@@ -120783,7 +120507,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 axqydssnwoegohg.com
 127.0.0.1 axrfetwwx.xyz
 127.0.0.1 axt.cool
-127.0.0.1 axtjdhwncvrawrg.com
 127.0.0.1 axukpirqfjj.com
 127.0.0.1 axuns.com
 127.0.0.1 axvnsla.top
@@ -122058,7 +121781,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 bjavvsmuqnob.com
 127.0.0.1 bjbdlt.com.cn
 127.0.0.1 bjcwwsc.xyz
-127.0.0.1 bjdianyue.com
 127.0.0.1 bjeai.com
 127.0.0.1 bjesseookbksx.com
 127.0.0.1 bjhdrxdduvwm.com
@@ -123441,13 +123163,11 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 cfbwxgsa.com
 127.0.0.1 cfc553b16f.com
 127.0.0.1 cfccc324b8.com
-127.0.0.1 cfclhaqhjdtw.com
 127.0.0.1 cfcloudcdn.com
 127.0.0.1 cfdanet.com
 127.0.0.1 cfegwufto.xyz
 127.0.0.1 cfekxodsdfjsmy.com
 127.0.0.1 cfgr1.com
-127.0.0.1 cfhijdsb.cn
 127.0.0.1 cfhlrai.cn
 127.0.0.1 cfhy.xyz
 127.0.0.1 cfkkdhs.cn
@@ -123788,7 +123508,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 cj.com
 127.0.0.1 cj7g.top
 127.0.0.1 cjbmanagement.com
-127.0.0.1 cjde.xyz
 127.0.0.1 cjenxpjxxhdwtp.xyz
 127.0.0.1 cjf25jklrwqt.com
 127.0.0.1 cjgcedu.com
@@ -124073,7 +123792,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 clzw.cyou
 127.0.0.1 cm-trk3.com
 127.0.0.1 cm-trk5.com
-127.0.0.1 cm.jd.com
 127.0.0.1 cmall.club
 127.0.0.1 cmaxisolation.com
 127.0.0.1 cmbestsrv.com
@@ -124255,7 +123973,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 coluim.com
 127.0.0.1 columnisterror.com
 127.0.0.1 com-csn.com
-127.0.0.1 com-wkejf32ljd23409system.net
 127.0.0.1 comacantha.com
 127.0.0.1 comadscity.com
 127.0.0.1 comalonger.com
@@ -125196,7 +124913,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 d27x9po2cfinm5.cloudfront.net
 127.0.0.1 d28s7kbgrs6h2f.cloudfront.net
 127.0.0.1 d28u86vqawvw52.cloudfront.net
-127.0.0.1 d29bsjuqfmjd63.cloudfront.net
 127.0.0.1 d29dbajta0the9.cloudfront.net
 127.0.0.1 d29gqcij.com
 127.0.0.1 d29i6o40xcgdai.cloudfront.net
@@ -125336,7 +125052,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 d3f4nuq5dskrej.cloudfront.net
 127.0.0.1 d3fkv551xkjrmm.cloudfront.net
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
-127.0.0.1 d3hib26r77jdus.cloudfront.net
 127.0.0.1 d3hitamb7drqut.cloudfront.net
 127.0.0.1 d3hj4iyx6t1waz.cloudfront.net
 127.0.0.1 d3hs51abvkuanv.cloudfront.net
@@ -125346,7 +125061,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 d3ithbwcmjcxl7.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3j7esvm4tntxq.cloudfront.net
-127.0.0.1 d3jdulus8lb392.cloudfront.net
 127.0.0.1 d3kblkhdtjv0tf.cloudfront.net
 127.0.0.1 d3kpkrgd3aj4o7.cloudfront.net
 127.0.0.1 d3l320urli0p1u.cloudfront.net
@@ -125766,7 +125480,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dedicatedmedia.com
 127.0.0.1 dediom.com
 127.0.0.1 deductsgnostic.com
-127.0.0.1 deduexwbxvjdxbp.com
 127.0.0.1 deecqem892bg5er.com
 127.0.0.1 deedeedwinos.com
 127.0.0.1 deefauph.com
@@ -125991,7 +125704,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dfgbalon.com
 127.0.0.1 dfgbodpefmlq.com
 127.0.0.1 dfggq.com
-127.0.0.1 dfjbgfldsjdsnldksjalld1235.cn
 127.0.0.1 dfmngtubtdfxnq.com
 127.0.0.1 dfokydq.cn
 127.0.0.1 dfpbnfapwcfap.com
@@ -126027,7 +125739,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dhejr.cn
 127.0.0.1 dhhixhjeroqljtl.xyz
 127.0.0.1 dhhpm.cn
-127.0.0.1 dhilyjdw.com
 127.0.0.1 dhkwxpzgvqgr.com
 127.0.0.1 dhl.135320.com
 127.0.0.1 dhlmy.com
@@ -126062,7 +125773,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 diaryeavesdropdecipher.com
 127.0.0.1 dias2o0.cn
 127.0.0.1 diasciaplatly.com
-127.0.0.1 dibjaahejdaeejhhaacd.ru
 127.0.0.1 dibsemey.com
 127.0.0.1 dibyc.com
 127.0.0.1 diclotrans.com
@@ -126269,7 +125979,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dj0ts1x.cn
 127.0.0.1 dj57.club
 127.0.0.1 dj930.cn
-127.0.0.1 djdecsdwjdgemj.com
 127.0.0.1 djfbefnbddfnvpg.xyz
 127.0.0.1 djfiln.com
 127.0.0.1 djfwuer.xyz
@@ -126298,7 +126007,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dkfmhv.xyz
 127.0.0.1 dkgmgj.xyz
 127.0.0.1 dkifl.com
-127.0.0.1 dkjdnq.cn
 127.0.0.1 dkjrvgfozzhc.com
 127.0.0.1 dkksrclpfqmmtp.com
 127.0.0.1 dkkypggviv.com
@@ -126338,7 +126046,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dlxk2dj1h3e83.cloudfront.net
 127.0.0.1 dlxxjsh.top
 127.0.0.1 dlyukun.cn
-127.0.0.1 dlzjdesign.com
 127.0.0.1 dlzm790g.com
 127.0.0.1 dlzxjk.cn
 127.0.0.1 dm.17xuexiba.com
@@ -126818,7 +126525,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 duriet.com
 127.0.0.1 duringsiam.com
 127.0.0.1 duritt.com
-127.0.0.1 durjdnjrbmiwytj.com
 127.0.0.1 duscleouphes.com
 127.0.0.1 dushiken.cn
 127.0.0.1 dushorgy.com
@@ -127321,7 +127027,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 eiyxjls.cn
 127.0.0.1 ejapwfpftwvl.com
 127.0.0.1 ejcet5y9ag.com
-127.0.0.1 ejdkqclkzq.com
 127.0.0.1 ejectbagsindefinite.com
 127.0.0.1 ejghw.cn
 127.0.0.1 ejipaifaurga.com
@@ -128513,7 +128218,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 fizzesilicic.com
 127.0.0.1 fizzythick.com
 127.0.0.1 fjaxplid.com
-127.0.0.1 fjdy.cc
 127.0.0.1 fjioh.com
 127.0.0.1 fjiruslmc.xyz
 127.0.0.1 fjjkq.cn
@@ -128530,7 +128234,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 fkbwtoopwg.com
 127.0.0.1 fkesfg.com
 127.0.0.1 fkhfk.cn
-127.0.0.1 fkjdz.cyou
 127.0.0.1 fkjjpwzkrfdg.com
 127.0.0.1 fkkse.com
 127.0.0.1 fkpnyinj.com
@@ -128564,7 +128267,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 flawexpectationsfurther.com
 127.0.0.1 flaxenvapour.com
 127.0.0.1 flaxierfilmset.com
-127.0.0.1 flaxseedssoenrh4372ojd.com
 127.0.0.1 flctbg.com
 127.0.0.1 fleckbest.com
 127.0.0.1 fleshlightcash.com
@@ -129239,7 +128941,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 gdgy56.com
 127.0.0.1 gdjvznzeik.com
 127.0.0.1 gdl5vtbbv0lj.com
-127.0.0.1 gdlnldbvjdt.com
 127.0.0.1 gdls114.com
 127.0.0.1 gdlvbiaokeji.cn
 127.0.0.1 gdmconvtrck.com
@@ -129270,7 +128971,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 geethoap.com
 127.0.0.1 gefadythi.pro
 127.0.0.1 geflan.com
-127.0.0.1 geijdhbappsenqb.xyz
 127.0.0.1 geili.co
 127.0.0.1 geili201911.ink
 127.0.0.1 geilid.com
@@ -130483,7 +130183,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 hbolaajfjayrcoo.com
 127.0.0.1 hbpvkvkkxb.com
 127.0.0.1 hbsjqogt.xyz
-127.0.0.1 hbssjd.cn
 127.0.0.1 hbttcc.com
 127.0.0.1 hbtyk.top
 127.0.0.1 hbunmokcwopj.com
@@ -130761,7 +130460,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 hicpic.net.cn
 127.0.0.1 hicpm10.com
 127.0.0.1 hicpm5.com
-127.0.0.1 hicuojdauo.com
 127.0.0.1 hidanhao.vip
 127.0.0.1 hiddam.com
 127.0.0.1 hiddell.com
@@ -131379,7 +131077,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 hygrephexy.com
 127.0.0.1 hyhfimgg.com
 127.0.0.1 hyhfsj.com
-127.0.0.1 hyjdz.cn
 127.0.0.1 hylmimgg.com
 127.0.0.1 hylmkele.com
 127.0.0.1 hylmxing.com
@@ -132340,7 +132037,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 iyurw.xyz
 127.0.0.1 izapteensuls.com
 127.0.0.1 izeiiemb.com
-127.0.0.1 izewuzabgcojd.com
 127.0.0.1 izitrckr.com
 127.0.0.1 izpcoo.cn
 127.0.0.1 izrnvo.com
@@ -132470,21 +132166,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 jcyunk2.com
 127.0.0.1 jczs.xyz
 127.0.0.1 jczzjx.com
-127.0.0.1 jd5c.top
-127.0.0.1 jd6pq31f.site
-127.0.0.1 jdaa22.top
-127.0.0.1 jdbzurmhiixqm.com
-127.0.0.1 jddaw.com
-127.0.0.1 jdgsgl.com
-127.0.0.1 jdiaveu.cn
-127.0.0.1 jdmsdyuoltpgby.xyz
-127.0.0.1 jdoqocy.com
-127.0.0.1 jdsy.ltd
-127.0.0.1 jdufvnoytl.com
-127.0.0.1 jdxq.club
-127.0.0.1 jdyz3.cn
-127.0.0.1 jdzbcdnd.com
-127.0.0.1 jdzlxtc.com
 127.0.0.1 je8fn.com
 127.0.0.1 jeannemildconfusion.com
 127.0.0.1 jeanrace.com
@@ -132704,8 +132385,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 jiyuanzixun.com
 127.0.0.1 jizzarchives.com
 127.0.0.1 jizzensirrah.com
-127.0.0.1 jjdtjvydmy.xyz
-127.0.0.1 jjdtrliuftaouhg.xyz
 127.0.0.1 jjmdavj.com
 127.0.0.1 jjpnveujkk.com
 127.0.0.1 jjwaelns.com
@@ -132720,7 +132399,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 jksdcwgjfm.xyz
 127.0.0.1 jktopia.com
 127.0.0.1 jktshare.icu
-127.0.0.1 jkunsukpfjd.com
 127.0.0.1 jkvbiry.cn
 127.0.0.1 jkxtd77.com
 127.0.0.1 jl-mt.com
@@ -132802,7 +132480,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 joicky.com
 127.0.0.1 joinbrand.club
 127.0.0.1 joizzxo.cn
-127.0.0.1 jojdvmcgjdt.com
 127.0.0.1 jojome.xyz
 127.0.0.1 joker6.fun
 127.0.0.1 jokrauda.com
@@ -132857,7 +132534,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 jppwzdbypenk.com
 127.0.0.1 jpqgxy.com
 127.0.0.1 jpqiiqgydipb.com
-127.0.0.1 jpyjdpal.xyz
 127.0.0.1 jpzwomhbxoalxu.com
 127.0.0.1 jq6b.top
 127.0.0.1 jqad.vip
@@ -133261,7 +132937,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 kcepfyzuna.com
 127.0.0.1 kcfuzhj.cn
 127.0.0.1 kcgkxha.cn
-127.0.0.1 kchjdwmxsvnicqk.com
 127.0.0.1 kcmomkn.cn
 127.0.0.1 kcogjewebvtbk.com
 127.0.0.1 kd1c.top
@@ -133668,7 +133343,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ksadrewrty.com
 127.0.0.1 ksdayhtl.xyz
 127.0.0.1 ksdlzcmvmj.com
-127.0.0.1 ksdqhiaythajdv.com
 127.0.0.1 ksdr.xyz
 127.0.0.1 ksehinkitw.hair
 127.0.0.1 ksharu.com
@@ -133864,7 +133538,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 laichook.net
 127.0.0.1 laidwhenadmiring.com
 127.0.0.1 laifu365.com
-127.0.0.1 laijd.cn
 127.0.0.1 lailoljiqsi.com
 127.0.0.1 lainaumi.com
 127.0.0.1 lainmpatoio.xyz
@@ -134185,7 +133858,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 lgse.com
 127.0.0.1 lgsmartad.com
 127.0.0.1 lgtdkpfnor.com
-127.0.0.1 lgxoyjjdunlwrhp.xyz
 127.0.0.1 lhacgsdvkrm.com
 127.0.0.1 lhbdpnhdjcxtr.xyz
 127.0.0.1 lhedgelnha.com
@@ -135628,7 +135300,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 migayush2lam1pa1.com
 127.0.0.1 mightstrikingfled.com
 127.0.0.1 mightwhiskers.com
-127.0.0.1 mightyhulsjdk.com
 127.0.0.1 mightylottrembling.com
 127.0.0.1 mignished-sility.com
 127.0.0.1 mignoops.net
@@ -136122,7 +135793,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 mstgc.com
 127.0.0.1 mstorer.net
 127.0.0.1 mstrlytcs.com
-127.0.0.1 msujd.cn
 127.0.0.1 msypr.com
 127.0.0.1 msyq.xyz
 127.0.0.1 mt.64foot.com
@@ -136240,7 +135910,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 mwprotected.com
 127.0.0.1 mwquick.com
 127.0.0.1 mx98.xyz
-127.0.0.1 mxabetogiycjdp.com
 127.0.0.1 mxauevhape.xyz
 127.0.0.1 mxdqfoo.cn
 127.0.0.1 mxdztgstli.com
@@ -136841,7 +136510,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 njcengpianwang.cn
 127.0.0.1 njcyfpv.cn
 127.0.0.1 njcyt.com
-127.0.0.1 njdijiani.com
 127.0.0.1 njguluyu.cn
 127.0.0.1 njhj.cc
 127.0.0.1 njhuashidai.cn
@@ -137195,7 +136863,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 nvidpn.com
 127.0.0.1 nvkvrqlkglwn.com
 127.0.0.1 nvmcavgqcr.com
-127.0.0.1 nvmjdpbjgrh.com
 127.0.0.1 nvqhbij.cn
 127.0.0.1 nvqjpzxufp.com
 127.0.0.1 nvrblk.xyz
@@ -137414,7 +137081,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 oende.cn
 127.0.0.1 oensil.com
 127.0.0.1 oepihvxwaboed.com
-127.0.0.1 oerljdvj.com
 127.0.0.1 oetn.xyz
 127.0.0.1 oetreixkbxx.com
 127.0.0.1 oewa.at
@@ -137532,7 +137198,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 okingabodew.xyz
 127.0.0.1 okkkk.com
 127.0.0.1 oklast.com
-127.0.0.1 okmjd.com
 127.0.0.1 oko.net
 127.0.0.1 okoniteblart.com
 127.0.0.1 okqapmnpyox.com
@@ -138168,7 +137833,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 p78lld1s.top
 127.0.0.1 p7ivj09f.xyz
 127.0.0.1 p7lvj09f.shop
-127.0.0.1 p7m1rc80jdum.com
 127.0.0.1 p8u.hinet.net
 127.0.0.1 pa5ka.com
 127.0.0.1 paaoqqfswg.com
@@ -138459,7 +138123,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 pdsjycm.com
 127.0.0.1 pdss.xyz
 127.0.0.1 pdsvrtb.cn
-127.0.0.1 pdtqjd.cn
 127.0.0.1 pdvacde.com
 127.0.0.1 pdxgfnnoan.com
 127.0.0.1 pdxubxc.cn
@@ -138858,7 +138521,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 pjcdjtn.cn
 127.0.0.1 pjewriw.top
 127.0.0.1 pjj9su.xyz
-127.0.0.1 pjjlbjd.cn
 127.0.0.1 pjjpp.com
 127.0.0.1 pjsxebh.com
 127.0.0.1 pjtymy.cn
@@ -139589,7 +139251,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 psozyhotho.pro
 127.0.0.1 pssy.xyz
 127.0.0.1 pstdzxu.cn
-127.0.0.1 pstjdcfhqxwjops.com
 127.0.0.1 pstmrk.it
 127.0.0.1 pstreetma.com
 127.0.0.1 psucnqdrke.com
@@ -139996,8 +139657,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 qdc7y9x.xyz
 127.0.0.1 qdchunyu.com
 127.0.0.1 qdcusfff.com
-127.0.0.1 qddrusjdrjuj.com
-127.0.0.1 qdeqwcljdplx.com
 127.0.0.1 qdglzx.com
 127.0.0.1 qdhhdsw.cn
 127.0.0.1 qdmeifeng.cn
@@ -140048,7 +139707,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 qhnwj.com
 127.0.0.1 qhonzpl.cn
 127.0.0.1 qhovrbepxmunqy.com
-127.0.0.1 qhrgwojdhorvao.com
 127.0.0.1 qhrixol.cn
 127.0.0.1 qhytkj.xyz
 127.0.0.1 qian-tao.xyz
@@ -140078,7 +139736,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 qiezijs.cc
 127.0.0.1 qifake.com
 127.0.0.1 qigfhle.cn
-127.0.0.1 qiji1.jdwx.info
 127.0.0.1 qijiandian.xyz
 127.0.0.1 qijiuwangluo.ltd
 127.0.0.1 qilashou.com
@@ -140152,7 +139809,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 qmbnkdh.cn
 127.0.0.1 qmdllqv.cn
 127.0.0.1 qmhnetqgevxmk.com
-127.0.0.1 qmihajdixr.com
 127.0.0.1 qmkr7isp3o.com
 127.0.0.1 qmnemxade.com
 127.0.0.1 qmomtjuteluq.com
@@ -140252,7 +139908,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 qtywnoh.cn
 127.0.0.1 qtzvsufbkpxin.com
 127.0.0.1 quackdamaging.com
-127.0.0.1 quackexclusfdfjd.com
 127.0.0.1 quacksquirrel.com
 127.0.0.1 quadrupleclick.com
 127.0.0.1 quaintcan.com
@@ -140517,7 +140172,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ravaquinal.com
 127.0.0.1 ravenousdrawers.com
 127.0.0.1 rawasy.com
-127.0.0.1 rawgsjd.cn
 127.0.0.1 rawjeansadvertising.com
 127.0.0.1 rawoarsy.com
 127.0.0.1 rawxgnuwolda.com
@@ -141186,7 +140840,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 riy9qqfushop.xyz
 127.0.0.1 riycecerfpjreyx.xyz
 127.0.0.1 rizlhvb.cn
-127.0.0.1 rjduwnkfxuumg.com
 127.0.0.1 rjnjjin.cn
 127.0.0.1 rjoawidlneitc.com
 127.0.0.1 rjstusbx.com
@@ -142640,7 +142293,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 sketchinferiorunits.com
 127.0.0.1 sketeprofs.com
 127.0.0.1 skewlyundazed.com
-127.0.0.1 skfjdf.xyz
 127.0.0.1 skfqxkk.cn
 127.0.0.1 skfrmkithq.xyz
 127.0.0.1 skilfulbags.com
@@ -143870,7 +143522,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 syduzothu.pro
 127.0.0.1 sydz.tw
 127.0.0.1 syenitetatler.tech
-127.0.0.1 syjjd.club
 127.0.0.1 syks.xyz
 127.0.0.1 syllin.com
 127.0.0.1 sylvia.cloud
@@ -144313,7 +143964,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 tffavlypd.xyz
 127.0.0.1 tffkroute.com
 127.0.0.1 tfiph.com
-127.0.0.1 tfjdafegolwrcr.xyz
 127.0.0.1 tfla.xyz
 127.0.0.1 tfosrv.com
 127.0.0.1 tfptlgrw.co
@@ -144346,7 +143996,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 thaiguxu.com
 127.0.0.1 thaistiboa.com
 127.0.0.1 thallus.net
-127.0.0.1 thalrjdulkbopbv.com
 127.0.0.1 thaninncoos.com
 127.0.0.1 thankful-conference.pro
 127.0.0.1 thanksgivingwittyfrisk.com
@@ -144922,7 +144571,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 tplpages.com
 127.0.0.1 tpmedia-reactads.com
 127.0.0.1 tpn134.com
-127.0.0.1 tpnygytjdqvq.com
 127.0.0.1 tpool.cn
 127.0.0.1 tpqokqi.cn
 127.0.0.1 tprzachf.com
@@ -145490,7 +145138,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 tzngisyi.xyz
 127.0.0.1 tzxmhi.com
 127.0.0.1 u-q.net.cn
-127.0.0.1 u-x.jd.com
 127.0.0.1 u.63kc.com
 127.0.0.1 u.qxen.com
 127.0.0.1 u.zuoyesou.com
@@ -145659,7 +145306,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 uhsmmaq4l2n5.com
 127.0.0.1 uhxdsplo.com
 127.0.0.1 uhyhdrh.cn
-127.0.0.1 uhzjdfpccxtne.com
 127.0.0.1 uib.ff.avast.com
 127.0.0.1 uibtxv.cn
 127.0.0.1 uigruwtql.com
@@ -145980,7 +145626,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 uq7c.top
 127.0.0.1 uqakkye.cn
 127.0.0.1 uqaqmc.cn
-127.0.0.1 uqbeohoajdqvcfe.xyz
 127.0.0.1 uqbmzwv.cn
 127.0.0.1 uqimgeulpygyo.com
 127.0.0.1 uqnggnst.fun
@@ -146097,7 +145742,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 uuboos.com
 127.0.0.1 uudzfbzthj.com
 127.0.0.1 uugupcjwhx.xyz
-127.0.0.1 uujdthyg.com
 127.0.0.1 uujjebrshxgr.xyz
 127.0.0.1 uuknlfqi.com
 127.0.0.1 uulvtpbx.com
@@ -146568,7 +146212,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 vivtracking.com
 127.0.0.1 vixoafte.xyz
 127.0.0.1 viyuzi.xyz
-127.0.0.1 vjdciu.com
 127.0.0.1 vjgenkfqjqng.com
 127.0.0.1 vjkmmog.cn
 127.0.0.1 vjptye.cn
@@ -146643,7 +146286,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 voicegiddiness.com
 127.0.0.1 voicermortise.com
 127.0.0.1 voicevegetable.com
-127.0.0.1 voihkjd.cn
 127.0.0.1 voiliertram.com
 127.0.0.1 voipnewswire.net
 127.0.0.1 voivoderageful.website
@@ -147042,7 +146684,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 wdread.pub
 127.0.0.1 wdroweavewerre.xyz
 127.0.0.1 wdswgjn.cn
-127.0.0.1 wduwvjd.cn
 127.0.0.1 wdvnvwayfcy.com
 127.0.0.1 wdxxx.top
 127.0.0.1 wdymwzz.com
@@ -147463,8 +147104,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 wizliebeg.com
 127.0.0.1 wizwarsum.site
 127.0.0.1 wj.jiancai365.cn
-127.0.0.1 wjdfv.com
-127.0.0.1 wjdmprn.cn
 127.0.0.1 wjguc.com
 127.0.0.1 wjhstylq.com
 127.0.0.1 wjjhzs.cn
@@ -147870,7 +147509,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 x-traceur.com
 127.0.0.1 x.aigobook.com
 127.0.0.1 x.castanet.net
-127.0.0.1 x.jd.com
 127.0.0.1 x.vipergirls.to
 127.0.0.1 x.yaohuo.me
 127.0.0.1 x0r.urlgalleries.net
@@ -148231,7 +147869,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 xpdyqax.cn
 127.0.0.1 xpectthatmy.shop
 127.0.0.1 xpicvrubu.xyz
-127.0.0.1 xpizjd4.cn
 127.0.0.1 xpj08.oss-cn-beijing.aliyuncs.com
 127.0.0.1 xplnnxx.top
 127.0.0.1 xplusone.com
@@ -149215,7 +148852,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 zcrui.com
 127.0.0.1 zctibmvmbmev.com
 127.0.0.1 zcuuqnrb.com
-127.0.0.1 zdajdudqfq.com
 127.0.0.1 zdbb.net
 127.0.0.1 zddxlih.com
 127.0.0.1 zdhfff.xyz
@@ -149471,9 +149107,7 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ziyunxs.com
 127.0.0.1 zizcy.com
 127.0.0.1 zizikagle.com
-127.0.0.1 zizpjdnvkks.com
 127.0.0.1 zjcxyh.cn
-127.0.0.1 zjdb2b.wang
 127.0.0.1 zjgfq.com
 127.0.0.1 zjgjzzy.online
 127.0.0.1 zjgzp4z9.club
@@ -149499,7 +149133,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 zkit.club
 127.0.0.1 zkjh.info
 127.0.0.1 zkqfrti.cn
-127.0.0.1 zkqqsjdgscrwm.com
 127.0.0.1 zkwsdf.com
 127.0.0.1 zlacraft.com
 127.0.0.1 zlajnpfqgsleo.com
@@ -149717,7 +149350,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 zyqtc.cn
 127.0.0.1 zythumungull.com
 127.0.0.1 zyugar.com
-127.0.0.1 zywhjd.com
 127.0.0.1 zyxyveshe.com
 127.0.0.1 zyyz.pro
 127.0.0.1 zyzjpx.cn
@@ -149911,8 +149543,6 @@ IP-CIDR,60.190.139.164/32
 ||wosign.com^$important
 ||wxsnsdythumb.wxs.qq.com^$important
 ||ixiguavideo.com^$important
-||mllog.jd.com^$important
-||un.m.jd.com.wscdns.com^$important
 ||data.bilibili.com^$important
 ||*.360.cn^$important
 ||360.cn^$important
