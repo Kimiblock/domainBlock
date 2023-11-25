@@ -17310,7 +17310,6 @@ a||0-000.store^
 ||dischannel.112.2o7.net^
 ||dischargedecent.com^
 ||discodearado.com^
-||discordclosure.com^
 ||discountclick.com^
 ||discountryvc.club^
 ||discounts4shops.com^
@@ -35121,7 +35120,6 @@ a||0-000.store^
 ||owhoogryinfo.com^
 ||owitmty.com^
 ||owl.heidipay.com^
-||owl.sentrydiscord.dev^
 ||owlanalytics.io^
 ||owlcongratulate.com^
 ||owlerydominos.cam^
@@ -41744,7 +41742,6 @@ a||0-000.store^
 ||sentimentalconflict.pro^
 ||sentimentfitful.com^
 ||sentimenthypocrisy.com^
-||sentineldiscordmm.com^
 ||sentphysically.com^
 ||sentrapromosi.com^
 ||sentrol.cl^
@@ -115461,7 +115458,6 @@ a||0-000.store^
 ||vweixinthumb.tc.qq.com^$important
 ||lens.zhihu.com^$important
 ||sugar.zhihu.com^$important
-||pic1.zhimg.com.w.alikunlun.com^$important
 ||1595096.sched.d0-dk.tdnsdp1.cn^$important
 ||safebrowsing.urlsec.qq.com^$important
 ||ins-g4ztq7u7.ias.tencent-cloud.net^$important
@@ -115594,15 +115590,11 @@ a||0-000.store^
 @@||apm.zuoyebang.com^$important
 @@||img.zuoyebang.cc^$important
 ||maplocatesdksnapshot.d.meituan.net^$important
-||unpkg.zhimg.com.w.kunlunar.com.c.cdnuyun.cn^$important
-||unpkg.zhimg.com^$important
 ||zhstatic.zhihu.com.w.alikunlun.net^$important
 ||488928.sched.skalego-dk.tdnsstic1.cn^$important
-||pkg.zhimg.com.w.kunlunca.com^$important
 ||9z6pdmqn.sched.sma.tdnsstic1.cn^$important
 ||sv.cdn.n1q.cn^$important
 ||1881296.sched.skalego.tdnsstic1.cn^$important
-||pkg1.zhimg.com^$important
 ||e4094fc1d98c915a.ksyunad.com^$important
 ||appcloud.zhihu.com^$important
 ||1040900017-0.m.ctrmi.cn^$important
@@ -126630,7 +126622,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 disbow.com
 127.0.0.1 dischargedecent.com
 127.0.0.1 discofrowsy.com
-127.0.0.1 discordclosure.com
 127.0.0.1 discountclick.com
 127.0.0.1 discountryvc.club
 127.0.0.1 discounts4shops.com
@@ -142576,7 +142567,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 sentexoticoncoming.com
 127.0.0.1 sentimentalconflict.pro
 127.0.0.1 sentimenthypocrisy.com
-127.0.0.1 sentineldiscordmm.com
 127.0.0.1 sentphysically.com
 127.0.0.1 senxiaopang.top
 127.0.0.1 seonto.com
@@ -150222,11 +150212,6 @@ IP-CIDR,60.190.139.164/32
 @@||q1.qlogo.cn^$important
 @@||p.qlogo.cn^$important
 @@||zhuanlan.zhihu.com^$important
-||pic2.zhimg.com^$important
-||pic4.zhimg.com^$important
-||pica.zhimg.com^$important
-||pic1.zhimg.com^$important
-||pic3.zhimg.com^$important
 ||grs.dbankcloud.com11^$important
 ||openapi-drcn.cloud.dbankcloud.cn^$important
 ||business-drcn.cloud.dbankcloud.cn^$important
@@ -150338,7 +150323,6 @@ IP-CIDR,60.190.139.164/32
 ||104df00005-0.m.ctrmi.cn^$important
 ||*96110*^$important
 ||ossgw.alicdn.com^$important
-||picx.zhimg.com^$important
 ||ddplus.meituan.net^$important
 ||httpdns.alicdn.com.danuoyi.tbcache.com^$important
 ||bv.brg0.com^$important
