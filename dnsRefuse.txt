@@ -115100,7 +115100,6 @@ a||0-000.store^
 ||itrinity-cn.c.huawei.com^$important
 ||consumer.huawei.com^$important
 ||opencdncloud.jomodns.com^$important
-||www.a.shifen.com^$important
 @@||d.image.i4.cn^$important
 @@||www.apple.com.cn^$important
 ||zqnweb.v.trpcdn.net^$important
