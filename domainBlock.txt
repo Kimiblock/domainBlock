@@ -1270,7 +1270,6 @@ a||0-000.store^
 ||864feb57ruary.com^
 ||86cb1dcb13ba5a1a.com^
 ||8761f9f83613.com^
-||88-baidu.com^
 ||883zy.com^
 ||884329.com^
 ||884352.com^
@@ -1448,7 +1447,6 @@ a||0-000.store^
 ||a.ax.xxx^
 ||a.b.napiszar.com^
 ||a.baidinet.com^
-||a.baidu.com^
 ||a.bake818.cn^
 ||a.bestcontenttool.top^
 ||a.bfking.cn^
@@ -3221,7 +3219,6 @@ a||0-000.store^
 ||adm-vids.info^
 ||adm.52swine.com^
 ||adm.6park.com^
-||adm.baidu.com^
 ||adm.beimg.com^
 ||adm.cloud.cnfol.com^
 ||adm.funshion.com^
@@ -5436,7 +5433,6 @@ a||0-000.store^
 ||afbd.pk^
 ||afcnuchxgo.com^
 ||afcontent.net^
-||afd.baidu.com^
 ||aff-jp.dxlive.com^
 ||aff-policy.lbesecapi.com^
 ||aff-report.lbesecapi.com^
@@ -6351,7 +6347,6 @@ a||0-000.store^
 ||alrightconsulatevarying.com^
 ||alritmodelanoche.com^
 ||als-svc.nytimes.com^
-||als.baidu.com^
 ||alshifaherbal.com^
 ||alskillsexkce.xyz^
 ||alsmdb.com^
@@ -8035,7 +8030,6 @@ a||0-000.store^
 ||as.sexad.net^
 ||as.webmd.com^
 ||as1.m.hao123.com^
-||as1.wenku.baidu.com^
 ||as2.fasta.xyz^
 ||as2.movporvid.com^
 ||as2.o777i.com^
@@ -9092,14 +9086,6 @@ a||0-000.store^
 ||bahisciler.co^
 ||bahmemohod.com^
 ||baibiigcfdjgdgacig.ru^
-||baidu-jxf.co^
-||baidu1.codejie.net^
-||baiduccdn1.com^
-||baidujavascript.com^
-||baidulao.com^
-||baiduyoukualiyun.com^
-||baiduyubaidu.com^
-||baifen.music.baidu.com^
 ||baifendian.com^
 ||baihbw.cn^
 ||baikogru.net^
@@ -9455,7 +9441,6 @@ a||0-000.store^
 ||baptismmattressstoppage.com^
 ||baptisttop1000.com^
 ||baptun.com^
-||bar.baidu.com^
 ||baradoot.com^
 ||barafranca.iwarp.com^
 ||barbarousnerve.com^
@@ -10034,7 +10019,6 @@ a||0-000.store^
 ||berrybeautyspa.com^
 ||berthsorry.com^
 ||berush.com^
-||besc.baidustatic.com^
 ||beserte.pro^
 ||besetadvocacystrap.com^
 ||besguses.pro^
@@ -11682,7 +11666,6 @@ a||0-000.store^
 ||byyanmaor.com^
 ||byzgoso.ru^
 ||bz.waveoffcrakes.com^
-||bzclk.baidu.com^
 ||bzlwe.com^
 ||bznsmonster.com^
 ||bzotoin.pics^
@@ -11878,7 +11861,6 @@ a||0-000.store^
 ||cachebanners.toteme.com^
 ||cacheserve.eurogrand.com^
 ||cachoustewing.com^
-||caclick.baidu.com^
 ||cactusglobal.io^
 ||cactusmedia.com^
 ||cadbitff.com^
@@ -12294,7 +12276,6 @@ a||0-000.store^
 ||cawbarthe.com^
 ||cawwn.com^
 ||cb-content.com^
-||cb.baidu.com^
 ||cba-fed-igh.com^
 ||cba.or.ke^
 ||cbango.com.ar^
@@ -12309,7 +12290,6 @@ a||0-000.store^
 ||cbdm.weathercn.com^
 ||cbdresidency.co.za^
 ||cben1.net^
-||cbjs.baidu.com^
 ||cbjs.ciwei.in^
 ||cbleads.com^
 ||cbltndzavx.com^
@@ -13248,7 +13228,6 @@ a||0-000.store^
 ||cjgcedu.com^
 ||cjhbkj.cn^
 ||cjhd.site^
-||cjhq.baidu.com^
 ||cjlog.com^
 ||cjm.mytv.vn^
 ||cjm.vnptmedia.vn^
@@ -13796,7 +13775,6 @@ a||0-000.store^
 ||cm-exchange.toast.com^
 ||cm.adform.net^
 ||cm.adsafety.net^
-||cm.baidu.com^
 ||cm.myway.com^
 ||cm.need2find.com^
 ||cm.shareaholic.com^
@@ -14350,7 +14328,6 @@ a||0-000.store^
 ||coneenpien.com^
 ||conexim-logistic.ro^
 ||conexionesymanguerashidrocalidas.com.mx^
-||conf.international.baidu.com^
 ||confdatabase.com^
 ||confesschairs.com^
 ||confiancabeneficios.com.br^
@@ -15035,8 +15012,6 @@ a||0-000.store^
 ||cpmtree.com^
 ||cpng.lol^
 ||cppgf.com^
-||cpro.baidu.com^
-||cpro.baidustatic.com^
 ||cpro.bdrmb.cn^
 ||cpro.zol.com.cn^
 ||cpuim.com^
@@ -17310,7 +17285,6 @@ a||0-000.store^
 ||dischannel.112.2o7.net^
 ||dischargedecent.com^
 ||discodearado.com^
-||discordclosure.com^
 ||discountclick.com^
 ||discountryvc.club^
 ||discounts4shops.com^
@@ -18168,7 +18142,6 @@ a||0-000.store^
 ||duojlm.com^
 ||duoletare.com^
 ||duopuohui.xyz^
-||dup.baidustatic.com^
 ||dupelipperan.com^
 ||duper8flash.com^
 ||duplefirer.uno^
@@ -18321,7 +18294,6 @@ a||0-000.store^
 ||e-zeitung.de^
 ||e.60sk.ru^
 ||e.apsalar.com^
-||e.baidu.com^
 ||e.cquotient.com^
 ||e.dr-zh.com^
 ||e.kde.cz^
@@ -18531,7 +18503,6 @@ a||0-000.store^
 ||ecircle-ag.com^
 ||ecityalittl.buzz^
 ||eckotech.com.br^
-||eclick.baidu.com^
 ||eclick.vn^
 ||eclickz.com^
 ||eclkmpbn.com^
@@ -18639,7 +18610,6 @@ a||0-000.store^
 ||edu.jiukang.org^
 ||edu.pmvanini.rs.gov.br^
 ||edua29146y.com^
-||eduad.baidu.com^
 ||eduardorodrigues.adv.br^
 ||educajuris.cl^
 ||educasom.pt^
@@ -18790,7 +18760,6 @@ a||0-000.store^
 ||eiryabba.com^
 ||eisual.com^
 ||eiteribesshaints.com^
-||eiv.baidu.com^
 ||eivamos.com^
 ||ej.progresas.lt^
 ||ejcet5y9ag.com^
@@ -20270,7 +20239,6 @@ a||0-000.store^
 ||fcg.casino770.com^
 ||fchio.com^
 ||fcjfijejhjfefgfaaadc.ru^
-||fclog.baidu.com^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
 ||fcrdb.com^
@@ -22280,7 +22248,6 @@ a||0-000.store^
 ||gft2.de^
 ||gfwiygrvi.xyz^
 ||gfxa.sheetmusicplus.com^
-||gg-baidu.xyz^
 ||gg-bet-pl.com^
 ||gg.0598yu.com^
 ||gg.blueidea.com^
@@ -22396,7 +22363,6 @@ a||0-000.store^
 ||gillynn.com^
 ||gilvision.com^
 ||gim.co.il^
-||gimg.baidu.com^
 ||gimiliminibi.com^
 ||gimp.es^
 ||gimpybedderump.com^
@@ -23334,7 +23300,6 @@ a||0-000.store^
 ||gslb-aws-us-east-02.v.fwmrm.net^
 ||gsmobile.es^
 ||gsmonitor.ru^
-||gsp1.baidu.com^
 ||gspro.hit.gemius.pl^
 ||gsquareinternational.com^
 ||gsqweb.cn^
@@ -24357,7 +24322,6 @@ a||0-000.store^
 ||hlserve.com^
 ||hlunlean.com^
 ||hm.adform.net^
-||hm.baidu.com^
 ||hm.l.qq.com^
 ||hmafhczsos.com^
 ||hmcfuqtjrhb.com^
@@ -24366,7 +24330,6 @@ a||0-000.store^
 ||hmikw.com^
 ||hmizat.co^
 ||hmjiayi.com^
-||hmma.baidu.com^
 ||hmnjf.com^
 ||hmong-miaojiuyi.com^
 ||hmongcash.com^
@@ -31669,8 +31632,6 @@ a||0-000.store^
 ||mob1ledev1ces.com^
 ||moba8.net^
 ||mobaders.com^
-||mobads-logs.baidu.com^
-||mobads.baidu.com^
 ||mobads4app.com^
 ||mobalert.net^
 ||mobalyzer.net^
@@ -31769,7 +31730,6 @@ a||0-000.store^
 ||mobnatives.com^
 ||mobon.com^
 ||mobondhrd.appspot.com^
-||mobopay.baidu.com^
 ||mobotoolpush.moboapps.io^
 ||mobpartner.mobi^
 ||mobpowertech.com^
@@ -32055,7 +32015,6 @@ a||0-000.store^
 ||mottlespouffed.live^
 ||moudmarauds.com^
 ||moundgrandmotherel.com^
-||mountain.zhidao.baidu.com^
 ||mountainbender.xyz^
 ||mountainouspear.com^
 ||mountrs.com^
@@ -32197,7 +32156,6 @@ a||0-000.store^
 ||msg.71.am^
 ||msg.dotomi.com^
 ||msg.qy.net^
-||msg.simeji.baidu.jp^
 ||msg.simeji.me^
 ||msgapp.com^
 ||msgose.com^
@@ -33729,7 +33687,6 @@ a||0-000.store^
 ||nsads4.us.publicus.com^
 ||nsatar.com^
 ||nsaudience.pl^
-||nsclick.baidu.com^
 ||nscollectureob.info^
 ||nscontext.com^
 ||nsdsvc.com^
@@ -35121,7 +35078,6 @@ a||0-000.store^
 ||owhoogryinfo.com^
 ||owitmty.com^
 ||owl.heidipay.com^
-||owl.sentrydiscord.dev^
 ||owlanalytics.io^
 ||owlcongratulate.com^
 ||owlerydominos.cam^
@@ -37043,7 +36999,6 @@ a||0-000.store^
 ||portoteamo.com^
 ||portserratic.com^
 ||portter.com^
-||pos.baidu.com^
 ||poseidthewave.com^
 ||poseph.com^
 ||posfrio.com.br^
@@ -40724,7 +40679,6 @@ a||0-000.store^
 ||s.adnxtr.com^
 ||s.agava.ru^
 ||s.autopilotapp.com^
-||s.baidu.com^
 ||s.baomoi.xdn.vn^
 ||s.bl-1.com^
 ||s.clickiocdn.com^
@@ -41744,7 +41698,6 @@ a||0-000.store^
 ||sentimentalconflict.pro^
 ||sentimentfitful.com^
 ||sentimenthypocrisy.com^
-||sentineldiscordmm.com^
 ||sentphysically.com^
 ||sentrapromosi.com^
 ||sentrol.cl^
@@ -42004,7 +41957,6 @@ a||0-000.store^
 ||sfixretarum.com^
 ||sfkmekofps.com^
 ||sforourco.com^
-||sfp.safe.baidu.com^
 ||sftapi.com^
 ||sftrack.searchforce.net^
 ||sfultraight.xyz^
@@ -42595,7 +42547,6 @@ a||0-000.store^
 ||sizmek.com^
 ||sj88.com^
 ||sjarvis.taobao.com^
-||sjbaiduadv1.redou.com^
 ||sjc-login.dotomi.com^
 ||sjedt.adsafeprotected.com^
 ||sjepm.adsafeprotected.com^
@@ -43100,7 +43051,6 @@ a||0-000.store^
 ||soazooge.com^
 ||sobakapi2sa8la09.com^
 ||sobakenchmaphk.com^
-||sobar.baidu.com^
 ||sobbathing.com^
 ||sobbingservingcolony.com^
 ||soberhouseclinic.com.br^
@@ -43156,7 +43106,6 @@ a||0-000.store^
 ||sodoit.com^
 ||sofcryingfo.xyz^
 ||sofinpushpile.com^
-||sofire.baidu.com^
 ||sofire.bdstatic.com^
 ||soflopxl.com^
 ||soft-com.biz^
@@ -46959,7 +46908,6 @@ a||0-000.store^
 ||tongdianku.com^
 ||tonger.online^
 ||tongj.xilu.com^
-||tongji.baidu.com^
 ||tongqing2015.com^
 ||tonicelement.digital^
 ||tonicincompetent.com^
@@ -46974,7 +46922,6 @@ a||0-000.store^
 ||tookcheckout.com^
 ||tookimookin.com^
 ||tool-site.com^
-||toolbar.baidu.com^
 ||toolbar.soso.com^
 ||toolbar.wibiya.com^
 ||toolbar.wips.com^
@@ -47565,7 +47512,6 @@ a||0-000.store^
 ||tracker.arc.io^
 ||tracker.awr.im^
 ||tracker.azet.sk^
-||tracker.baidu.com^
 ||tracker.beezup.com^
 ||tracker.bestshopping.com^
 ||tracker.blutv.com^
@@ -48813,11 +48759,8 @@ a||0-000.store^
 ||ubiquitousyard.com^
 ||ubjectsandie.biz^
 ||ublrfs.com^
-||ubmcmm.baidustatic.com^
-||ubmcvideo.baidustatic.com^
 ||uboungera.com^
 ||ubuyanalytics.ubuy.com^
-||uc-baidu.cc^
 ||uc.ucweb.com^
 ||uc.xddi.ru^
 ||uc.zhuici.com^
@@ -48836,7 +48779,6 @@ a||0-000.store^
 ||ucms.edu.pk^
 ||ucounter.ucoz.net^
 ||ucs.betwaygroup.com^
-||ucstat.baidu.com^
 ||ucurtatus.com^
 ||ucv3kq.com^
 ||ucxgg.com^
@@ -49118,7 +49060,6 @@ a||0-000.store^
 ||uninua.com^
 ||unioladeseret.com^
 ||union.6.cn^
-||union.baidu.com^
 ||union.china.com.cn^
 ||union.ucweb.com^
 ||union.yihaodian.com^
@@ -49206,7 +49147,6 @@ a||0-000.store^
 ||unskilledanna.com^
 ||unsnakybrulot.com^
 ||unspeakablepurebeings.com^
-||unstat.baidu.com^
 ||unsternrelease.com^
 ||unsubscribed.co^
 ||unsulf.com^
@@ -49479,7 +49419,6 @@ a||0-000.store^
 ||usoasopersbe.xyz^
 ||usonar.jp^
 ||usounoul.com^
-||usp1.baidu.com^
 ||usr.trava.io^
 ||usstero.com^
 ||usswrite.com^
@@ -49512,7 +49451,6 @@ a||0-000.store^
 ||uthyr-que.com^
 ||utiesh.com^
 ||utijs.xyz^
-||utility.baidu.com^
 ||utillib.xyz^
 ||utils.mediageneral.net^
 ||utimg.ru^
@@ -50725,7 +50663,6 @@ a||0-000.store^
 ||wangdq.com^
 ||wangfenxi.com^
 ||wangkeduo.cn^
-||wangmeng.baidu.com^
 ||wangpan.ltd^
 ||wangqing7.top^
 ||wangyasen.link^
@@ -51589,8 +51526,6 @@ a||0-000.store^
 ||wjrcjcpsuqng.com^
 ||wka8.com^
 ||wkagigmevmdr.com^
-||wkclick.baidu.com^
-||wkctj.baidu.com^
 ||wkjoehzlkl.com^
 ||wkmg.co.kr^
 ||wknd.ai^
@@ -51611,7 +51546,6 @@ a||0-000.store^
 ||wlzohrpjbuq.com^
 ||wm-panel.com^
 ||wm-space.youero.com^
-||wm.baidu.com^
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wma.io^
@@ -53638,7 +53572,6 @@ a||0-000.store^
 ||zsxqjjobfb.com^
 ||zsxrhkrfwwv.com^
 ||zsyk91.cn^
-||zt-uc-baidu.cc^
 ||zt2088.com^
 ||ztcadx.com^
 ||ztech.gq^
@@ -54103,7 +54036,6 @@ a||0-000.store^
 @@||app.adjust.com^
 @@||uland.taobao.com^
 @@||advertisement.taobao.com^
-@@||baozhang.baidu.com^
 @@||tongji.edu.cn^
 @@||tongji.cn^
 @@||ad.siemens.com.cn^
@@ -58027,7 +57959,6 @@ a||0-000.store^
 ||ba05d69136.com^
 ||babator.com^
 ||babbnrs.com^
-||baiduada.babihu.com^
 ||kiddbs.baby-calendar.jp^
 ||babybubble.cn^
 ||babymoment.net^
@@ -58066,202 +57997,6 @@ a||0-000.store^
 ||st.bahnhof.de^
 ||baichuanbi.wang^
 ||game.baichuanhd.cn^
-||baidu-image-qqcom.com^
-||baidu-taobao-av.com^
-||a.baidu.cn^
-||adscdn.baidu.cn^
-||afd.baidu.cn^
-||als.baidu.cn^
-||anquan.baidu.cn^
-||appc.baidu.cn^
-||as.baidu.cn^
-||c.baidu.cn^
-||cb.baidu.cn^
-||cbjs.baidu.cn^
-||cbjslog.baidu.cn^
-||cjhq.baidu.cn^
-||cpro.baidu.cn^
-||cpro2.baidu.cn^
-||crs.baidu.cn^
-||drmcmm.baidu.cn^
-||e.baidu.cn^
-||eclick.baidu.cn^
-||eiv.baidu.cn^
-||hc.baidu.cn^
-||hm.baidu.cn^
-||hmma.baidu.cn^
-||hpd.baidu.cn^
-||imageplus.baidu.cn^
-||ma.baidu.cn^
-||mobads-logs.baidu.cn^
-||mobads.baidu.cn^
-||mtj.baidu.cn^
-||nsclick.baidu.cn^
-||pups.baidu.cn^
-||rj.baidu.cn^
-||rp.baidu.cn^
-||spcode.baidu.cn^
-||tk.baidu.cn^
-||tuisong.baidu.cn^
-||ucstat.baidu.cn^
-||union.baidu.cn^
-||utility.baidu.cn^
-||utk.baidu.cn^
-||videopush.baidu.cn^
-||wangmeng.baidu.cn^
-||wm.baidu.cn^
-||znsv.baidu.cn^
-||dl-vip.pcfaster.baidu.co.th^
-||ada.baidu.com^
-||adscdn.baidu.com^
-||anti-bot.baidu.com^
-||browserkernel.baidu.com^
-||cbjslog.baidu.com^
-||cir-smart.baidu.com^
-||click.fanyi.baidu.com^
-||cpu.baidu.com^
-||crab.baidu.com^
-||crs.baidu.com^
-||cstm.baidu.com^
-||datax.baidu.com^
-||dl.ops.baidu.com^
-||dlswbr.baidu.com^
-||dxp.baidu.com^
-||em.baidu.com^
-||entry.baidu.com^
-||fclick.baidu.com^
-||fcm.baidu.com^
-||feed-image.baidu.com^
-||goutong.baidu.com^
-||hao123union.baidu.com^
-||hijack.baidu.com^
-||hpd.baidu.com^
-||idm-su.baidu.com^
-||imgstat.baidu.com^
-||kstj.baidu.com^
-||log.music.baidu.com^
-||lxbjs.baidu.com^
-||miao.baidu.com^
-||mipengine.baidu.com^
-||nadvideo.baidu.com^
-||nadvideo2.baidu.com^
-||nj.t.bcsp2p.baidu.com^
-||paimgcdn-feed.baidu.com^
-||pimlog.baidu.com^
-||push.zhanzhang.baidu.com^
-||qapm.baidu.com^
-||sclick.baidu.com^
-||share.baidu.com^
-||sjh.baidu.com^
-||static1.searchbox.baidu.com^
-||tcbox.baidu.com^
-||techain.baidu.com^
-||uil.cbs.baidu.com^
-||unionsug.baidu.com^
-||xsolid.baidu.com^
-||znsv.baidu.com^
-||adavideo.baidu.com^
-||aden.baidu.com^
-||anquan.baidu.com^
-||antivirus.baidu.com^
-||tuisong.baidu.com^
-||appc.baidu.com^
-||as.baidu.com^
-||baichuan.baidu.com^
-||baidutv.baidu.com^
-||banlv.baidu.com^
-||bdplus.baidu.com^
-||btlaunch.baidu.com^
-||c.baidu.com^
-||cdn-haokanapk.baidu.com^
-||cleaner.baidu.com^
-||click.bes.baidu.com^
-||cpro.tieba.baidu.com^
-||cpro.zhidao.baidu.com^
-||cpro2.baidu.com^
-||cpu-admin.baidu.com^
-||cpucdn.baidu.com^
-||dl-vip.bav.baidu.com^
-||dl.client.baidu.com^
-||dl1sw.baidu.com^
-||dl2.bav.baidu.com^
-||dlsw.baidu.com^
-||dlsw.br.baidu.com^
-||download.bav.baidu.com^
-||download.sd.baidu.com^
-||dzl.baidu.com^
-||ers.baidu.com^
-||fc3tn.baidu.com^
-||fc5tn.baidu.com^
-||feed.baidu.com^
-||fexclick.baidu.com^
-||g.baidu.com^
-||guanjia.baidu.com^
-||hc.baidu.com^
-||hdj.baidu.com^
-||idm.bce.baidu.com^
-||iebar.baidu.com^
-||ikcode.baidu.com^
-||imageplus.baidu.com^
-||itsdata.map.baidu.com^
-||j.br.baidu.com^
-||m1.baidu.com^
-||ma.baidu.com^
-||mo.baidu.com^
-||mpro.baidu.com^
-||msite.baidu.com^
-||mssp.baidu.com^
-||mtj.baidu.com^
-||neirong.baidu.com^
-||nlog.baidu.com^
-||nsclickvideo.baidu.com^
-||openrcv.baidu.com^
-||pc.videoclick.baidu.com^
-||pro.baidu.com^
-||publish-pic-cpu.baidu.com^
-||pups.baidu.com^
-||push.music.baidu.com^
-||qianclick.baidu.com^
-||release.baidu.com^
-||res.mi.baidu.com^
-||river.zhidao.baidu.com^
-||rj.baidu.com^
-||rp.baidu.com^
-||rplog.baidu.com^
-||sestat.baidu.com^
-||shadu.baidu.com^
-||sobartop.baidu.com^
-||stat.v.baidu.com^
-||tk.baidu.com^
-||tkweb.baidu.com^
-||tuijian.baidu.com^
-||udpolimenew.baidu.com^
-||ulic.baidu.com^
-||ulog.imap.baidu.com^
-||unionimage.baidu.com^
-||utk.baidu.com^
-||videopush.baidu.com^
-||w.gdown.baidu.com^
-||w.x.baidu.com^
-||weishi.baidu.com^
-||wisepush.video.baidu.com^
-||yingxiao.baidu.com^
-||sync.mobojoy.baidu.com^
-||api.mobojoy.baidu.com^
-||js.mobojoy.baidu.com^
-||plugin.mobopay.baidu.com^
-||dj1.baidu.com^
-||isite.baidu.com^
-||baidu9635.com^
-||baiduhaoba.com^
-||baidujs.vip^
-||baidushifen.com^
-||gxwlzz.baiduspider1.cn^
-||baidustatic.com^
-||baidutm999.xyz^
-||baidutuapi.com^
-||baiduwudi929.xyz^
-||baiduzhidahao.cc^
 ||baigm.com^
 ||baihuiad.com^
 ||baikalize.com^
@@ -58509,13 +58244,11 @@ a||0-000.store^
 ||stats.bcdtravel.com^
 ||app.bceagles.com^
 ||css888.bceapp.com^
-||baiducom.bj.bcebos.com^
 ||cms-image.cdn.bcebos.com^
 ||fc-feed.cdn.bcebos.com^
 ||shijuezhongguo.cdn.bcebos.com^
 ||wzjs.cdn.bcebos.com^
 ||wzjs2.cdn.bcebos.com^
-||cpu-baidu-com-block.cdn.bcebos.com^
 ||dd713.bj.bcebos.com^
 ||hzyd.cdn.bcebos.com^
 ||tob-cms.bj.bcebos.com^
@@ -59072,7 +58805,6 @@ a||0-000.store^
 ||bnuni.com^
 ||boannroc.xyz^
 ||boat3deer.com^
-||bobaidu8.com^
 ||dtmssl.bobcat.com^
 ||bobo.com^
 ||w.bobocn.cn^
@@ -59520,7 +59252,6 @@ a||0-000.store^
 ||promote.caixin.com^
 ||caiyeml.pw^
 ||caiyifz.com^
-||hm.baidu.com.caiziwuyou.com^
 ||z1.caiziwuyou.com^
 ||z2.caiziwuyou.com^
 ||calarm.info^
@@ -59628,8 +59359,6 @@ a||0-000.store^
 ||carbonch.mobi^
 ||cb-mms.carbuyer.co.uk^
 ||zkxmhc.carcam.ru^
-||baidua1.cardbaobao.com^
-||baidua2.cardbaobao.com^
 ||cardniu.com^
 ||btmean.cardosystems.com^
 ||ebis.care-tensyoku.com^
@@ -60141,7 +59870,6 @@ a||0-000.store^
 ||chuanmen.mobi^
 ||chuantu.biz^
 ||chudongcaiwu.xyz^
-||baidu-union-js.chuimg.com^
 ||bd4.chuiyue.com^
 ||a8clk.chuko-truck.com^
 ||chunaisese12.com^
@@ -61047,7 +60775,6 @@ a||0-000.store^
 ||cy123.cc^
 ||cyad.cc^
 ||cyad123.com^
-||baidu.cybcyw.com^
 ||lp1s.cyber-guard.me^
 ||hits.cyberdrop.me^
 ||cybermonitor.com^
@@ -61450,7 +61177,6 @@ a||0-000.store^
 ||ssc.dengiamerika.com^
 ||dengteng.me^
 ||dengzhou.us^
-||baidu.dengzhoull.com^
 ||kqchxa.denizbutik.com^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
@@ -64267,7 +63993,6 @@ a||0-000.store^
 ||bob.gitclear.com^
 ||achicih.gitee.io^
 ||retarget.gites-de-france.com^
-||baidut.github.io^
 ||techhome-js.github.io^
 ||copilot-telemetry.githubusercontent.com^
 ||eg.gitpapa.com^
@@ -64527,7 +64252,6 @@ a||0-000.store^
 ||tr.strategie.gouv.fr^
 ||gouwubang.com^
 ||gouzhibao.cn^
-||js.govbaidu.cn^
 ||govchengdu.cn^
 ||governments.wang^
 ||govguangxi.cn^
@@ -64597,7 +64321,6 @@ a||0-000.store^
 ||greenlinknow.com^
 ||greenprints.org.cn^
 ||ea.greenweez.de^
-||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||xzq.greenxf.net^
 ||ghdlry.greetz.nl^
@@ -64689,7 +64412,6 @@ a||0-000.store^
 ||bdjsym.guangyuanol.cn^
 ||guangzhouta.top^
 ||guangzhuiyuan.com^
-||union.baidustatic.guannin.com^
 ||zmj.guanqinjie.cn^
 ||m.guanren11.com^
 ||m.guanren5.com^
@@ -65885,7 +65607,6 @@ a||0-000.store^
 ||ib00.cn^
 ||m.ib345.cn^
 ||ibafnw.cn^
-||app.ibaiducdn.com^
 ||m.ibaop.com^
 ||ibeat-analytics.com^
 ||ibeating.top^
@@ -66505,9 +66226,6 @@ a||0-000.store^
 ||static.g.iqiyi.com^
 ||tracker.sns.iqiyi.com^
 ||afp.iqiyi.com^
-||baiducdncmn-gd.inter.iqiyi.com^
-||baiducdncmn.inter.iqiyi.com^
-||baiducdncmn3.inter.iqiyi.com^
 ||paopao-monitor.iqiyi.com^
 ||store.iqiyi.com^
 ||iqiyi.kim^
@@ -67107,7 +66825,6 @@ a||0-000.store^
 ||jnmqym4.cn^
 ||jnqiangzhi.xyz^
 ||keryt.jnservo.com^
-||hm.baidu.com.jnsiematcnc.com^
 ||jnsz.net.cn^
 ||jntmedia.cn^
 ||c.jntxst.cn^
@@ -67381,7 +67098,6 @@ a||0-000.store^
 ||m.jyvlpg.cn^
 ||jywangluo.top^
 ||jyzmsy.com.cn^
-||baidu.jz5u.net^
 ||cp.jz5u.net^
 ||jz8b.top^
 ||jzcan.xyz^
@@ -69393,8 +69109,6 @@ a||0-000.store^
 ||dialogue.mazda.si^
 ||dialogue.mazda.sk^
 ||mbai.cn^
-||jb.mbaidu.top^
-||js.mbaidu.top^
 ||m.mbaik.com^
 ||mbaobao.com^
 ||mbazhaheix.top^
@@ -76277,7 +75991,6 @@ a||0-000.store^
 ||sync.teamrtb.net^
 ||teaservizio.com^
 ||teasfwda.com^
-||tebaidu.cn^
 ||tg.tebiezhuan.com^
 ||cmp.tech426.com^
 ||utle.tech426.com^
@@ -76768,7 +76481,6 @@ a||0-000.store^
 ||tlcs666.com^
 ||c.tlscqw.cn^
 ||v.tlscqw.cn^
-||baidu.tlssyg.com^
 ||tlsynmli.fun^
 ||tm1-001.com^
 ||tmearn.com^
@@ -78641,7 +78353,6 @@ a||0-000.store^
 ||analyse.weather.com.cn^
 ||e.weather.com.cn^
 ||swc.weather.com.cn^
-||baidu1.weather.com.cn^
 ||bima.weathercn.com^
 ||zgzxs.weathercn.com^
 ||aima.weathercn.com^
@@ -81106,7 +80817,6 @@ a||0-000.store^
 ||zhide-edu.cn^
 ||zhidian3g.cn^
 ||pv.zhiding.cn^
-||m.baidu.com.zhiduo.org^
 ||zhifouzhifou.cn^
 ||ruhpbn.zhigaojixie.com^
 ||lc-push.zhihu.com^
@@ -87446,7 +87156,6 @@ a||0-000.store^
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
-0.0.0.0 a.baidu.com
 0.0.0.0 a.boom.ro
 0.0.0.0 a.cctv.com
 0.0.0.0 a.cntv.cn
@@ -87910,7 +87619,6 @@ a||0-000.store^
 0.0.0.0 adjuggler.yourdictionary.com
 0.0.0.0 adkontekst.pl
 0.0.0.0 adm.265g.com
-0.0.0.0 adm.baidu.com
 0.0.0.0 adm.funshion.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.shinobi.jp
@@ -89090,7 +88798,6 @@ a||0-000.store^
 0.0.0.0 babycenter.tt.omtrdc.net
 0.0.0.0 bacskateszov.hu
 0.0.0.0 badults.se
-0.0.0.0 baiduccdn1.com
 0.0.0.0 bak-home.com
 0.0.0.0 bak0-store.com
 0.0.0.0 balkanwide-assistance.rs
@@ -89161,7 +88868,6 @@ a||0-000.store^
 0.0.0.0 bans.bride.ru
 0.0.0.0 banstex.com
 0.0.0.0 bansys.onzin.com
-0.0.0.0 bar.baidu.com
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 baskidunyasi.net
 0.0.0.0 bb.crwdcntrl.net
@@ -89396,7 +89102,6 @@ a||0-000.store^
 0.0.0.0 caslemedia.com
 0.0.0.0 casting.openv.com
 0.0.0.0 cb.alimama.cn
-0.0.0.0 cb.baidu.com
 0.0.0.0 cbango.com.ar
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cc-dt.com
@@ -89515,7 +89220,6 @@ a||0-000.store^
 0.0.0.0 cityads.telus.net
 0.0.0.0 citycash2.blogspot.com
 0.0.0.0 civilhir.net
-0.0.0.0 cjhq.baidu.com
 0.0.0.0 ck.juicyads.com
 0.0.0.0 claimfreerewards.com
 0.0.0.0 classicjack.com
@@ -89648,7 +89352,6 @@ a||0-000.store^
 0.0.0.0 count6.51yes.com
 0.0.0.0 cpm20.com
 0.0.0.0 cpmadvisors.com
-0.0.0.0 cpro.baidu.com
 0.0.0.0 cpxdeliv.com
 0.0.0.0 creatiby1.unicast.com
 0.0.0.0 creative.ad131m.com
@@ -89859,7 +89562,6 @@ a||0-000.store^
 0.0.0.0 dylanwong.com
 0.0.0.0 dynip.org
 0.0.0.0 dysoool.com
-0.0.0.0 e.baidu.com
 0.0.0.0 e.company-target.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 e0.extreme-dm.com
@@ -89894,7 +89596,6 @@ a||0-000.store^
 0.0.0.0 egyazegyben.com
 0.0.0.0 egyenesen.com
 0.0.0.0 egyveleg.com
-0.0.0.0 eiv.baidu.com
 0.0.0.0 ej.progresas.lt
 0.0.0.0 elzaservis.cz
 0.0.0.0 emea-bidder.mathtag.com
@@ -90153,7 +89854,6 @@ a||0-000.store^
 0.0.0.0 giftcardchallenge.com
 0.0.0.0 giftcardsurveys.us.com
 0.0.0.0 giles.uk.net
-0.0.0.0 gimg.baidu.com
 0.0.0.0 gingert.net
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.ymtrack.com
@@ -90257,7 +89957,6 @@ a||0-000.store^
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlok.qertewrt.com
-0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 hmw42.host-my-website.com
 0.0.0.0 hnfwg.voluumtrk.com
@@ -91055,7 +90754,6 @@ a||0-000.store^
 0.0.0.0 nsads.hotwired.com
 0.0.0.0 nsads.us.publicus.com
 0.0.0.0 nsads4.us.publicus.com
-0.0.0.0 nsclick.baidu.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 ntskeptics.org
@@ -91358,7 +91056,6 @@ a||0-000.store^
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pornstargals.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postmasterdirect.com
@@ -91666,7 +91363,6 @@ a||0-000.store^
 0.0.0.0 s.admulti.com
 0.0.0.0 s.arclk.net
 0.0.0.0 s.atemda.com
-0.0.0.0 s.baidu.com
 0.0.0.0 s.boom.ro
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktale.net
@@ -91893,7 +91589,6 @@ a||0-000.store^
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snip.answers.com
 0.0.0.0 soarpower.com
-0.0.0.0 sobar.baidu.com
 0.0.0.0 sochr.com
 0.0.0.0 social.bidsystem.com
 0.0.0.0 socom.es
@@ -92183,8 +91878,6 @@ a||0-000.store^
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net
 0.0.0.0 tomsonguitars.co.uk
-0.0.0.0 tongji.baidu.com
-0.0.0.0 toolbar.baidu.com
 0.0.0.0 toolbar.soso.com
 0.0.0.0 top.list.ru
 0.0.0.0 top100-images.rambler.ru
@@ -92225,7 +91918,6 @@ a||0-000.store^
 0.0.0.0 track.tooplay.com
 0.0.0.0 track.vscash.com
 0.0.0.0 tracker.awr.im
-0.0.0.0 tracker.baidu.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.craktraffic.com
 0.0.0.0 tracking.edvisors.com
@@ -92306,8 +91998,6 @@ a||0-000.store^
 0.0.0.0 u.videoamp.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uav.tidaltv.com
-0.0.0.0 ubmcmm.baidustatic.com
-0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
 0.0.0.0 udec.cl
@@ -92329,9 +92019,7 @@ a||0-000.store^
 0.0.0.0 uniclick.openv.com
 0.0.0.0 union.56.com
 0.0.0.0 union.6.cn
-0.0.0.0 union.baidu.com
 0.0.0.0 unser-en.de
-0.0.0.0 unstat.baidu.com
 0.0.0.0 uole.ad.uol.com.br
 0.0.0.0 upgrade-ms-home.com
 0.0.0.0 upload.adtech.fr
@@ -92351,7 +92039,6 @@ a||0-000.store^
 0.0.0.0 users.tpg.com.au
 0.0.0.0 usswrite.com
 0.0.0.0 utarget.ru
-0.0.0.0 utility.baidu.com
 0.0.0.0 utils.media-general.com
 0.0.0.0 utils.mediageneral.com
 0.0.0.0 uvimage.56.com
@@ -92449,7 +92136,6 @@ a||0-000.store^
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -92509,7 +92195,6 @@ a||0-000.store^
 0.0.0.0 windows-several-update.com
 0.0.0.0 windows-update-02-en.com
 0.0.0.0 windows-wsus-update.com
-0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
@@ -94489,7 +94174,6 @@ a||0-000.store^
 @@||doc.weixin.qq.com^
 @@||gm.mmstat.com^
 @@||gw.m.163.com^
-@@||imgstat.baidu.com^
 @@||inews.gtimg.com^
 @@||livewebbs2.msstatic.com^
 @@||local.adguard.org^
@@ -94778,7 +94462,6 @@ a||0-000.store^
 ||*.moad.cn^
 ||*.mobad.ijinshan.com^
 ||*.mobadme.jp^
-||*.mobads.baidu.com^
 ||*.mobfox.com^
 ||*.mobgi.com^
 ||*.mobiledissector.com^
@@ -94866,7 +94549,6 @@ a||0-000.store^
 ||*.toushibao.com^
 ||*.trafficjam.cn^
 ||*.trafficjunky.net^
-||*.tuisong.baidu.com^
 ||*.turn.com^
 ||*.uca6.com^
 ||*.uissm.com^
@@ -95212,7 +94894,6 @@ a||0-000.store^
 ||33shangyou.com^
 ||34c2f22e9503ace.com^
 ||35285e87c3.com^
-||360baidus.com^
 ||360safego.com^
 ||360zuowen.net^
 ||361315.cc^
@@ -95999,7 +95680,6 @@ a||0-000.store^
 ||ad.pchome.com.tw^
 ||ad.pixnet.in^
 ||ad.pixnet.net^
-||ad.player.baidu.com^
 ||ad.proxy.sh^
 ||ad.qingting.fm^
 ||ad.quwin.cn^
@@ -96142,7 +95822,6 @@ a||0-000.store^
 ||adm.72zx.com^
 ||adm.86wan.com^
 ||adm.adminstrumentengineering.com.au^
-||adm.baidu.cn^
 ||adm.easou.com^
 ||adm.leju.com^
 ||adm.myzaker.com^
@@ -97151,7 +96830,6 @@ a||0-000.store^
 ||api.whizzone.com^
 ||api.wonderpush.com^
 ||api.wootric.com.herokudns.com^
-||api.youqian.baidu.com^
 ||api.yuanzun888.com^
 ||api2.batmobi.net^
 ||api2.okanjo.com^
@@ -97615,13 +97293,6 @@ a||0-000.store^
 ||bahu.xyz^
 ||bahuthue.com^
 ||baiapk.com^
-||baidu-union-js.xiachufang.com^
-||baidu-union-pos.xiachufang.com^
-||baidu.bxwx666.org^
-||baiduace.com^
-||baiduappu.top^
-||baiduspider1.cn^
-||baiduvip.life^
 ||baileydoormantdoormantalacrity.com^
 ||baileyorphan.com^
 ||baimbw.cn^
@@ -98062,7 +97733,6 @@ a||0-000.store^
 ||borlsbla.cyou^
 ||borrowedbananaspite.com^
 ||bosatria.cn^
-||boscdn.bpc.baidu.com^
 ||bosiwangzi.cn^
 ||boss.berlinonline.de^
 ||boss.qzone.qq.com^
@@ -98467,7 +98137,6 @@ a||0-000.store^
 ||cdn.apprope.com^
 ||cdn.aralego.net^
 ||cdn.attn.tv^
-||cdn.baidu.xahycw.com^
 ||cdn.batmobi.net^
 ||cdn.bidmatrixdsp.com^
 ||cdn.bizible.com^
@@ -98997,7 +98666,6 @@ a||0-000.store^
 ||collector-main.trafficmanager.net^
 ||collector.bughd.com^
 ||collector.capturly.com^
-||collector.dcdn.baidu.com^
 ||collector.leaddyno.com^
 ||collector.nextguide.tv^
 ||collector.pabs.comcast.com^
@@ -99212,8 +98880,6 @@ a||0-000.store^
 ||cpoml.iask.sina.com.cn^
 ||cpro1.edushi.com^
 ||cpshwl.cn^
-||cpu-admin.baidu.cn^
-||cpu.baidu.cn^
 ||cpv.channelray^
 ||cpva.cc^
 ||cpxkvc.com^
@@ -100133,7 +99799,6 @@ a||0-000.store^
 ||duchoono.com^
 ||ducina.com^
 ||duckydecor.store^
-||duclick.baidu.com^
 ||ducmissy.com^
 ||dugbvb.com^
 ||duhochid.net^
@@ -100536,7 +100201,6 @@ a||0-000.store^
 ||entractta.top^
 ||entrecard.com^
 ||entree.igetget.com^
-||entry.baidu.cn^
 ||entstronicsform.info^
 ||entualagreetsd.info^
 ||envelopeheadache.com^
@@ -101590,7 +101254,6 @@ a||0-000.store^
 ||goeobouyt.com^
 ||goepxwacxhtkix.com^
 ||goeyxwhp.site^
-||goge365-baidu.com^
 ||gogiersan.com^
 ||gogiworld.com^
 ||gogolm.xyz^
@@ -102265,7 +101928,6 @@ a||0-000.store^
 ||htranldpkzgx.com^
 ||htsj.vip^
 ||htsysltuujfjcb.com^
-||httpdns.baidubce.com^
 ||httpdns.kg.qq.com^
 ||httpdns.zybang.com^
 ||httpsjs.com^
@@ -104033,7 +103695,6 @@ a||0-000.store^
 ||log.suchen.de^
 ||log.tapatalk.com^
 ||log.trackingio.com^
-||log.waimai.baidu.com^
 ||log.weico.cc^
 ||log.wtlogin.qq.com^
 ||log.ys7.com^
@@ -104220,7 +103881,6 @@ a||0-000.store^
 ||m-game.book.qq.com^
 ||m.027blzs.com^
 ||m.axsre.com^
-||m.baidu.com.yiqisee.cn^
 ||m.bonawuzi.xyz^
 ||m.chinachooses.com^
 ||m.cudaojia.com^
@@ -105201,7 +104861,6 @@ a||0-000.store^
 ||mubite.cn^
 ||mud4.destinia.com.eg^
 ||muddishcachrys.website^
-||muer.cdn-baidu.fs-sywh.com^
 ||muffledgleeful.com^
 ||muhite.com^
 ||muhtgyfourcjl.com^
@@ -105441,7 +105100,6 @@ a||0-000.store^
 ||newsokos.com^
 ||newsubscribes.com^
 ||newtech-beauty.com^
-||newvector.map.baidu.com^
 ||newvideos.xyz^
 ||newyiba.top^
 ||nextcps.com^
@@ -105774,7 +105432,6 @@ a||0-000.store^
 ||officeme.cn^
 ||officular.xyz^
 ||officultpolicit.pro^
-||offnavi.map.baidu.com^
 ||offslrbeqypf.com^
 ||ofgishdqggyh.com^
 ||oflike.com^
@@ -106123,7 +105780,6 @@ a||0-000.store^
 ||pagnookr.net^
 ||paholita.com^
 ||paight.com^
-||paimgcdn.baidu.com^
 ||painiuimg.com^
 ||painsko.com^
 ||paishuiban.ltd^
@@ -106696,7 +106352,6 @@ a||0-000.store^
 ||pryappaldescribe.com^
 ||ps.browser.qq.com^
 ||ps.ecosia.org^
-||ps.map.baidu.com^
 ||ps868.xyz^
 ||psaglyfico.com^
 ||psagridowe.com^
@@ -109682,7 +109337,6 @@ a||0-000.store^
 ||static.sharethrough.com^
 ||static.sojern.com^
 ||static.ssacdn.com^
-||static.su.baidu.com^
 ||static.subiz.com^
 ||static.tapfiliate.com^
 ||static.verticalscope.com^
@@ -110504,7 +110158,6 @@ a||0-000.store^
 ||tomvtvucvlee.com^
 ||tonewithough.info^
 ||tongbu.com^
-||tongji.baidu.cn^
 ||tongji.home.soufun.com^
 ||tongji.info^
 ||tongji.mafengwo.cn^
@@ -111170,8 +110823,6 @@ a||0-000.store^
 ||ufeaqyzn.com^
 ||ufglrthrwrtguj.com^
 ||ufmnrbbm.com^
-||ufosdk.baidu.cn^
-||ufosdk.baidu.com^
 ||ufoukolt.com^
 ||ufraton.com^
 ||ufvyywlrgpgpyl.com^
@@ -112272,7 +111923,6 @@ a||0-000.store^
 ||www.atl-6-ga.com^
 ||www.azera-s014.com^
 ||www.bae5tracker.com^
-||www.baidumanager.club^
 ||www.bait4role.com^
 ||www.bali6nora.com^
 ||www.bank8line.com^
@@ -113569,7 +113219,6 @@ a||0-000.store^
 ||zhangjinfei.vip^
 ||zhangkc.com^
 ||zhangtiantian.cc^
-||zhanzhang.baidu.com^
 ||zhanzhang.toutiao.com^
 ||zhao258.com^
 ||zhcmuccccixz.com^
@@ -113876,8 +113525,6 @@ a||0-000.store^
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 xiaomi.m.cn.miaozhen.com
 127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
-127.0.0.1 baiducdncmn3.inter.iqiyi.com
-127.0.0.1 nadvideo2.baidu.com
 #--爱奇艺-Qiyi
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 api.yuedu.iqiyi.com
@@ -113916,13 +113563,11 @@ a||0-000.store^
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 g.dtv.cn.miaozhen.com
-127.0.0.1 baiducdncmn.inter.iqiyi.com
 127.0.0.1 msgv6.qy.net
 127.0.0.1 api.ts.feedback.qy.net
 127.0.0.1 puma.api.iqiyi.com
 127.0.0.1 puma-api.iqiyi.com
 127.0.0.1 rd596n.jomodns.com
-127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
 127.0.0.1 bdcdncmn-gd.inter.71edge.com
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
@@ -114448,7 +114093,6 @@ a||0-000.store^
 127.0.0.1 smart-789.kakamobi.cn
 127.0.0.1 short-video.kakamobi.cn
 127.0.0.1 ad.quwin.cn
-127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
@@ -114811,73 +114455,8 @@ a||0-000.store^
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 s1.2mdn.net
 127.0.0.1 ssl.google-analytics.com
-#pkg=baidu.com;百度广告服务
-127.0.0.1 adm.baidu.com
-127.0.0.1 ad.player.baidu.com
-127.0.0.1 adscdn.baidu.com
-127.0.0.1 afd.baidu.com
-127.0.0.1 als.baidu.com
-127.0.0.1 cbjs.baidu.com
-127.0.0.1 cm.baidu.com
-127.0.0.1 cm.pos.baidu.com
-127.0.0.1 cpro.baidu.com
-127.0.0.1 crs.baidu.com
-127.0.0.1 eclick.baidu.com
-127.0.0.1 eiv.baidu.com
-127.0.0.1 entry.baidu.com
-127.0.0.1 idm-su.baidu.com
-127.0.0.1 idm.bce.baidu.com
-127.0.0.1 mobads-logs.baidu.com
-127.0.0.1 mobads.baidu.com
-127.0.0.1 msite.baidu.com
-127.0.0.1 nsclick.baidu.com
-127.0.0.1 nsclickvideo.baidu.com
-127.0.0.1 pc.videoclick.baidu.com
-127.0.0.1 pos.baidu.com
-127.0.0.1 push.zhanzhang.baidu.com
-127.0.0.1 river.zhidao.baidu.com
-127.0.0.1 s.cpro.baidu.com
-127.0.0.1 wangmeng.baidu.com
-127.0.0.1 wn.pos.baidu.com
-127.0.0.1 bdplus.baidu.com
-127.0.0.1 datax.baidu.com
-127.0.0.1 openrcv.baidu.com
-127.0.0.1 a.baidu.com
-127.0.0.1 cb.baidu.com
-127.0.0.1 hdj.baidu.com
-127.0.0.1 mssp.baidu.com
-127.0.0.1 nlog.baidu.com
-127.0.0.1 sestat.baidu.com
-127.0.0.1 stat.v.baidu.com
-127.0.0.1 videopush.baidu.com
-127.0.0.1 wisepush.video.baidu.com
-127.0.0.1 hmma.baidu.com
-127.0.0.1 dup.baidustatic.com
-127.0.0.1 sp0.baidu.com
-127.0.0.1 qapm.baidu.com
-127.0.0.1 fclog.baidu.com
-127.0.0.1 sofire.baidu.com
-127.0.0.1 tcbox.baidu.com
-127.0.0.1 browserkernel.baidu.com
-127.0.0.1 hijack.baidu.com
-127.0.0.1 hpd.baidu.com
-127.0.0.1 hm.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
-127.0.0.1 cdn-haokanapk.baidu.com
-127.0.0.1 adavideo.baidu.com
-127.0.0.1 ada.baidu.com
-127.0.0.1 tuijian.baidu.com
-127.0.0.1 ucstat.baidu.com
-127.0.0.1 crab.baidu.com
-127.0.0.1 api1.tuisong.baidu.com
-127.0.0.1 baidu-mipdx.cn.miaozhen.com
-127.0.0.1 api3.tuisong.baidu.com
-127.0.0.1 api8.tuisong.baidu.com
-127.0.0.1 sa.tuisong.baidu.com
-127.0.0.1 api.tuisong.baidu.com
-127.0.0.1 sa8.tuisong.baidu.com
-127.0.0.1 cpro.baidustatic.com
 #pkg=qq.com;腾讯广告服务
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
@@ -115461,7 +115040,6 @@ a||0-000.store^
 ||vweixinthumb.tc.qq.com^$important
 ||lens.zhihu.com^$important
 ||sugar.zhihu.com^$important
-||pic1.zhimg.com.w.alikunlun.com^$important
 ||1595096.sched.d0-dk.tdnsdp1.cn^$important
 ||safebrowsing.urlsec.qq.com^$important
 ||ins-g4ztq7u7.ias.tencent-cloud.net^$important
@@ -115506,7 +115084,6 @@ a||0-000.store^
 ||wximg.qq.com.sched.ssdv6.tdnsv6.com^$important
 @@||ocsp.globalsign.com^$important
 @@||mmbiz.qlogo.cn^$important
-@@||www.baidu.com^$important
 @@||www.apple.com^$important
 @@||dispatcher.is.autonavi.com^$important
 @@||yun-hl.3g.qq.com^$important
@@ -115594,21 +115171,16 @@ a||0-000.store^
 @@||apm.zuoyebang.com^$important
 @@||img.zuoyebang.cc^$important
 ||maplocatesdksnapshot.d.meituan.net^$important
-||unpkg.zhimg.com.w.kunlunar.com.c.cdnuyun.cn^$important
-||unpkg.zhimg.com^$important
 ||zhstatic.zhihu.com.w.alikunlun.net^$important
 ||488928.sched.skalego-dk.tdnsstic1.cn^$important
-||pkg.zhimg.com.w.kunlunca.com^$important
 ||9z6pdmqn.sched.sma.tdnsstic1.cn^$important
 ||sv.cdn.n1q.cn^$important
 ||1881296.sched.skalego.tdnsstic1.cn^$important
-||pkg1.zhimg.com^$important
 ||e4094fc1d98c915a.ksyunad.com^$important
 ||appcloud.zhihu.com^$important
 ||1040900017-0.m.ctrmi.cn^$important
 ||j1hqc7ee.sched.d0-dk.tdnsdp1.cn^$important
 ||finderdma.video.qq.com^$important
-||report-uri.baidu.com^$important
 ||mobilemad.zlongame.com^$important
 @@||api.zhihu.com^$important
 @@||static.zhihu.com^$important
@@ -115674,13 +115246,6 @@ a||0-000.store^
 # 手工定义的 Reject 列表
 #待反馈是否误杀
 #百度（可能有多余项）
-127.0.0.1 mtj.baidu.com
-127.0.0.1 static.tieba.baidu.com
-127.0.0.1 union.baidu.com
-127.0.0.1 imageplus.baidu.com
-127.0.0.1 t10.baidu.com
-127.0.0.1 t11.baidu.com
-127.0.0.1 t12.baidu.com
 # 未知广告 来自#49反馈
 127.0.0.1 stats.chinaz.com
 #站长统计
@@ -117235,7 +116800,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 876920.com
 127.0.0.1 87fgr4.site
 127.0.0.1 87uq.com
-127.0.0.1 88-baidu.com
 127.0.0.1 88035affc1.com
 127.0.0.1 884069349.ltd
 127.0.0.1 884329.com
@@ -120635,7 +120199,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 as.inbox.com
 127.0.0.1 as.webmd.com
 127.0.0.1 as1.m.hao123.com
-127.0.0.1 as1.wenku.baidu.com
 127.0.0.1 as2.adserverhd.com
 127.0.0.1 as5000.com
 127.0.0.1 asacdn.com
@@ -121458,20 +121021,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 bahmemohod.com
 127.0.0.1 bahuthue.com
 127.0.0.1 baiapk.com
-127.0.0.1 baidu-image-qqcom.com
-127.0.0.1 baidu1.codejie.net
-127.0.0.1 baiduada.babihu.com
-127.0.0.1 baiducom.bj.bcebos.com
-127.0.0.1 baiduhaoba.com
-127.0.0.1 baidujavascript.com
-127.0.0.1 baidujs.cnys.com
-127.0.0.1 baidulao.com
-127.0.0.1 baidutm999.xyz
-127.0.0.1 baidutuapi.com
-127.0.0.1 baiduwudi929.xyz
-127.0.0.1 baiduyoukualiyun.com
-127.0.0.1 baiduyubaidu.com
-127.0.0.1 baifen.music.baidu.com
 127.0.0.1 baihbw.cn
 127.0.0.1 baikogru.net
 127.0.0.1 baileydoormantdoormantalacrity.com
@@ -122150,7 +121699,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 berunhtdfrxp.com
 127.0.0.1 berush.com
 127.0.0.1 beryl3.cc
-127.0.0.1 besc.baidustatic.com
 127.0.0.1 besequda.xyz
 127.0.0.1 beserte.pro
 127.0.0.1 besetadvocacystrap.com
@@ -125267,7 +124815,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 css.juqingba.cn
 127.0.0.1 css.zmjm.com
 127.0.0.1 cssjs.info
-127.0.0.1 cstm.baidu.com
 127.0.0.1 csuytfmhtk.com
 127.0.0.1 cswmeogdtycy.xyz
 127.0.0.1 csxsyp.cn
@@ -126630,7 +126177,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 disbow.com
 127.0.0.1 dischargedecent.com
 127.0.0.1 discofrowsy.com
-127.0.0.1 discordclosure.com
 127.0.0.1 discountclick.com
 127.0.0.1 discountryvc.club
 127.0.0.1 discounts4shops.com
@@ -126788,7 +126334,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 dlrcoalbin.com
 127.0.0.1 dlrioxg1637dk.cloudfront.net
 127.0.0.1 dlski.space
-127.0.0.1 dlswbr.baidu.com
 127.0.0.1 dltqxz76sim1s.cloudfront.net
 127.0.0.1 dlvds9i67c60j.cloudfront.net
 127.0.0.1 dlxk2dj1h3e83.cloudfront.net
@@ -127120,7 +126665,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 drkkydnkdvfosd.xyz
 127.0.0.1 drkness.net
 127.0.0.1 drldgfscmjgim.com
-127.0.0.1 drmcmm.baidu.com
 127.0.0.1 drmfslx.cn
 127.0.0.1 drmjxoaaslsn.com
 127.0.0.1 drogog.com
@@ -127242,7 +126786,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 duginamis.com
 127.0.0.1 dugothitachan.com
 127.0.0.1 duilin.me
-127.0.0.1 duiwai.baidu.com
 127.0.0.1 dukagrygro.com
 127.0.0.1 dukeendorsement.com
 127.0.0.1 dukesike.top
@@ -127632,7 +127175,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 edstylistepro.xyz
 127.0.0.1 edu.jiukang.org
 127.0.0.1 edua29146y.com
-127.0.0.1 eduad.baidu.com
 127.0.0.1 educationaldetachblob.com
 127.0.0.1 educationdynamics.com
 127.0.0.1 educedsteeped.com
@@ -128466,7 +128008,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 f1.ichong123.com
 127.0.0.1 f1.pig66.com
 127.0.0.1 f1.zaojv.com
-127.0.0.1 f11.baidu.com
 127.0.0.1 f11.hackhome.com
 127.0.0.1 f1190.com
 127.0.0.1 f1721037a5.com
@@ -129871,7 +129412,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 gfwiygrvi.xyz
 127.0.0.1 gfxa.sheetmusicplus.com
 127.0.0.1 gfxjjpo.cn
-127.0.0.1 gg-baidu.xyz
 127.0.0.1 gg.0598yu.com
 127.0.0.1 gg.4kdy.net
 127.0.0.1 gg.blueidea.com
@@ -132761,7 +132301,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ivy.pconline.com.cn
 127.0.0.1 ivykiosk.com
 127.0.0.1 ivyoqimcvfy.com
-127.0.0.1 iwanad.baidu.com
 127.0.0.1 iwansf.com
 127.0.0.1 iwantuonly.com
 127.0.0.1 iwfofotjwlcphm.xyz
@@ -134137,7 +133676,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ksiywrjwvkmat.com
 127.0.0.1 ksnignsd.xyz
 127.0.0.1 ksnoownmd.fun
-127.0.0.1 kstj.baidu.com
 127.0.0.1 ksxb.ltd
 127.0.0.1 ksznidltg.com
 127.0.0.1 kt220.com
@@ -136487,7 +136025,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 mottlespouffed.live
 127.0.0.1 moudmarauds.com
 127.0.0.1 moundgrandmotherel.com
-127.0.0.1 mountain.zhidao.baidu.com
 127.0.0.1 mouraipoucuk.com
 127.0.0.1 mouruidesign.cn
 127.0.0.1 mouseflow.com
@@ -136620,7 +136157,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 muddishcachrys.website
 127.0.0.1 muddyjustify.com
 127.0.0.1 mudezs.com
-127.0.0.1 muer.cdn-baidu.fs-sywh.com
 127.0.0.1 mufoa6k.cn
 127.0.0.1 muggedlancemutilate.com
 127.0.0.1 mugleafly.com
@@ -142576,7 +142112,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 sentexoticoncoming.com
 127.0.0.1 sentimentalconflict.pro
 127.0.0.1 sentimenthypocrisy.com
-127.0.0.1 sentineldiscordmm.com
 127.0.0.1 sentphysically.com
 127.0.0.1 senxiaopang.top
 127.0.0.1 seonto.com
@@ -143090,7 +142625,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 sizesidewalk.com
 127.0.0.1 sizmek.com
 127.0.0.1 sjaidu.com
-127.0.0.1 sjbaiduadv1.redou.com
 127.0.0.1 sjeklqx.cn
 127.0.0.1 sjgnskf.com
 127.0.0.1 sjjk.ltd
@@ -143514,7 +143048,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 spaung.cn
 127.0.0.1 spawnpredicatemutual.com
 127.0.0.1 spayedjetty.com
-127.0.0.1 spcode.baidu.com
 127.0.0.1 speai.com
 127.0.0.1 speaknews.cn
 127.0.0.1 speakol.com
@@ -146024,11 +145557,9 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 ubjpqgpiacql.com
 127.0.0.1 ubkcrmxth.com
 127.0.0.1 ubktmlk.cn
-127.0.0.1 ubmcvideo.baidustatic.com
 127.0.0.1 ubmdkecltnv.xyz
 127.0.0.1 uboungera.com
 127.0.0.1 ubxqerc.cn
-127.0.0.1 uc-baidu.cc
 127.0.0.1 uc.zhuici.com
 127.0.0.1 uc4a.cn
 127.0.0.1 uc9.suinidai.com.cn
@@ -150007,7 +149538,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 znfg6677.top
 127.0.0.1 znqip.net
 127.0.0.1 znqip.org
-127.0.0.1 znsv.baidu.com
 127.0.0.1 zo6g.top
 127.0.0.1 zo7gihmry2.com
 127.0.0.1 zoachoar.net
@@ -150093,7 +149623,6 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 zsxqjjobfb.com
 127.0.0.1 zsyk91.cn
 127.0.0.1 zszcxxzx.com
-127.0.0.1 zt-uc-baidu.cc
 127.0.0.1 zt2088.com
 127.0.0.1 zt5g.top
 127.0.0.1 ztech.gq
@@ -150222,11 +149751,6 @@ IP-CIDR,60.190.139.164/32
 @@||q1.qlogo.cn^$important
 @@||p.qlogo.cn^$important
 @@||zhuanlan.zhihu.com^$important
-||pic2.zhimg.com^$important
-||pic4.zhimg.com^$important
-||pica.zhimg.com^$important
-||pic1.zhimg.com^$important
-||pic3.zhimg.com^$important
 ||grs.dbankcloud.com11^$important
 ||openapi-drcn.cloud.dbankcloud.cn^$important
 ||business-drcn.cloud.dbankcloud.cn^$important
@@ -150338,7 +149862,6 @@ IP-CIDR,60.190.139.164/32
 ||104df00005-0.m.ctrmi.cn^$important
 ||*96110*^$important
 ||ossgw.alicdn.com^$important
-||picx.zhimg.com^$important
 ||ddplus.meituan.net^$important
 ||httpdns.alicdn.com.danuoyi.tbcache.com^$important
 ||bv.brg0.com^$important
