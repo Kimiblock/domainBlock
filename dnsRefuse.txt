@@ -17310,6 +17310,7 @@ a||0-000.store^
 ||dischannel.112.2o7.net^
 ||dischargedecent.com^
 ||discodearado.com^
+||discordclosure.com^
 ||discountclick.com^
 ||discountryvc.club^
 ||discounts4shops.com^
@@ -35120,6 +35121,7 @@ a||0-000.store^
 ||owhoogryinfo.com^
 ||owitmty.com^
 ||owl.heidipay.com^
+||owl.sentrydiscord.dev^
 ||owlanalytics.io^
 ||owlcongratulate.com^
 ||owlerydominos.cam^
@@ -41742,6 +41744,7 @@ a||0-000.store^
 ||sentimentalconflict.pro^
 ||sentimentfitful.com^
 ||sentimenthypocrisy.com^
+||sentineldiscordmm.com^
 ||sentphysically.com^
 ||sentrapromosi.com^
 ||sentrol.cl^
@@ -126627,6 +126630,7 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 disbow.com
 127.0.0.1 dischargedecent.com
 127.0.0.1 discofrowsy.com
+127.0.0.1 discordclosure.com
 127.0.0.1 discountclick.com
 127.0.0.1 discountryvc.club
 127.0.0.1 discounts4shops.com
@@ -142572,6 +142576,7 @@ IP-CIDR,60.190.139.164/32
 127.0.0.1 sentexoticoncoming.com
 127.0.0.1 sentimentalconflict.pro
 127.0.0.1 sentimenthypocrisy.com
+127.0.0.1 sentineldiscordmm.com
 127.0.0.1 sentphysically.com
 127.0.0.1 senxiaopang.top
 127.0.0.1 seonto.com
