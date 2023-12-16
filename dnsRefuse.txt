@@ -148717,13 +148717,11 @@ IP-CIDR,60.190.139.164/32
 ||ossgw.alicdn.com^$important
 ||sz-qiniu-all.volcgtm.com^$important
 ||qiniustaticopencdn.jomodns.com^$important
-||*.vzuu.com^$important
 ||*doh*^$important
 @@||res.wx.qq.com^$important
 ||report.meeting.tencent.com^$important
 ||104df00005-0.m.ctrmi.cn^$important
 ||*96110*^$important
-||ossgw.alicdn.com^$important
 ||ddplus.meituan.net^$important
 ||httpdns.alicdn.com.danuoyi.tbcache.com^$important
 ||bv.brg0.com^$important
