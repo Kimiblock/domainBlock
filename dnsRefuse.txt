@@ -1,4 +1,4 @@
-a||0-000.store^
+||0-000.store^
 ||0.code.cotsta.ru^
 ||0001.best^
 ||000free.us^
