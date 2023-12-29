@@ -2,10 +2,7 @@
 ||nakanomikuorg.github.io^$important
 ||metrics-picture.dreport.meituan.net^$important
 ||collectd.org^$important
-||mcdn.bilivideo.cn^$important
-||.*\.mcdn\.bilivideo\.(com|cn)^$important
 @@||matrix.*^$important
-||data.bilibili.com^$important
 ||*.360.cn^$important
 ||360.cn^$important
 ||flash.sec.miui.com^$important
