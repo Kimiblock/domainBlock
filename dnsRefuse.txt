@@ -6,3 +6,4 @@
 ||*.360.cn^$important
 ||360.cn^$important
 ||flash.sec.miui.com^$important
+||flatkill.org^$important
