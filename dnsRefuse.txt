@@ -8,3 +8,5 @@
 ||flash.sec.miui.com^$important
 ||flatkill.org^$important
 ||snapcraft.io^$important
+||warp.dev^$important
+
