@@ -9,4 +9,5 @@
 ||flatkill.org^$important
 ||snapcraft.io^$important
 ||warp.dev^$important
-
+||public-data-api.mihoyo.com^$important
+||uspider.yuanshen.com^$important
