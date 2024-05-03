@@ -14,3 +14,6 @@
 
 # ushi.net.cn Scam
 ||ushi.net.cn^$important
+
+# Fandom Wiki should be gone
+||minecraft.fandom.com^$important
