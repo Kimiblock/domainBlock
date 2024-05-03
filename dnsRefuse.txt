@@ -11,3 +11,6 @@
 ||warp.dev^$important
 ||public-data-api.mihoyo.com^$important
 ||uspider.yuanshen.com^$important
+
+# ushi.net.cn Scam
+||ushi.net.cn^$important
