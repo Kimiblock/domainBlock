@@ -17,3 +17,6 @@
 
 # Fandom Wiki should be gone
 ||minecraft.fandom.com^$important
+
+# https://drewdevault.com/2024/04/09/2024-04-09-FDO-conduct-enforcement.html
+||hyprland.org^$important
