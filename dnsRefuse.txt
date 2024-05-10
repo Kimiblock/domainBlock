@@ -21,3 +21,6 @@
 # https://drewdevault.com/2024/04/09/2024-04-09-FDO-conduct-enforcement.html
 ||hyprland.org^$important
 ||vaxry.net^$important
+
+# Stack Overflow is making money by selling user data
+||stackoverflow.com^$important
