@@ -19,7 +19,7 @@ function getList(){
 function getGeosite(){
 	lines=$(cat geosite | wc -l)
 	lines=$(expr ${lines} + 2)
-	l=2
+	l=1
 	while [[ ${l} -lt ${lines} ]]; do
 		url=$(cat geosite | head -n ${l} | tail -n 1)
 		l=$(expr ${l} + 1)
@@ -40,6 +40,7 @@ function mergeList(){
 	cat dnsRefuse.txt | grep -v "# " >>/tmp/domainBlock.txt
 	awk '!seen[$0]++' /tmp/domainBlock.txt >domainBlock.txt
 	rm /tmp/domainBlock*.txt
+	rm /tmp/domainBlock-*.geosite
 }
 
 getList
