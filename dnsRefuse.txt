@@ -24,3 +24,9 @@
 
 # Stack Overflow is making money by selling user data
 ||stackoverflow.com^$important
+
+# Block fandom
+||minecraft-zh.gamepedia.com^$important
+||zh.minecraftwiki.net^$important
+
+||dispatchcnglobal.yuanshen.com^$important
