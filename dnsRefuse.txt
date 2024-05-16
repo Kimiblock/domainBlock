@@ -30,3 +30,6 @@
 ||zh.minecraftwiki.net^$important
 
 ||dispatchcnglobal.yuanshen.com^$important
+
+# Malicious Website refusing to patch for Firefox
+||myplan.johnhancock.com^$important
