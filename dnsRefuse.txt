@@ -41,3 +41,9 @@
 ||123pan.com^$important
 ||right.com.cn^$important
 ||xaidc.com^$important
+
+# Tencent
+||ad.qq.com^$important
+||ad.qun.qq.com^$important
+||adfilter.imtt.qq.com^$important
+||adping.qq.com^$important
