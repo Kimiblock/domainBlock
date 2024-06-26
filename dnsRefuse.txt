@@ -37,3 +37,8 @@
 
 # Malicious Website which stole lots of oss repos
 ||gitcode.com^$important
+
+||tgvoice.com^$important
+||123pan.com^$important
+||right.com.cn^$important
+||xaidc.com^$important
