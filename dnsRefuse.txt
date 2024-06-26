@@ -34,3 +34,6 @@
 
 # Malicious Website refusing to patch for Firefox
 ||myplan.johnhancock.com^$important
+
+# Malicious Website which stole lots of oss repos
+||gitcode.com^$important
