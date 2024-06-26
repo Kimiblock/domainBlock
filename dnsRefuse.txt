@@ -6,12 +6,11 @@
 ||*.360.cn^$important
 ||360.cn^$important
 ||flash.sec.miui.com^$important
-||flatkill.org^$important
 ||snapcraft.io^$important
 ||warp.dev^$important
 ||public-data-api.mihoyo.com^$important
 ||uspider.yuanshen.com^$important
-||doubao.com^$important
+||*tiktok*^$important
 
 # ushi.net.cn Scam
 ||ushi.net.cn^$important
