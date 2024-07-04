@@ -8,8 +8,6 @@
 ||flash.sec.miui.com^$important
 ||snapcraft.io^$important
 ||warp.dev^$important
-||public-data-api.mihoyo.com^$important
-||uspider.yuanshen.com^$important
 ||*tiktok*^$important
 
 # ushi.net.cn Scam
@@ -28,8 +26,6 @@
 # Block fandom
 ||minecraft-zh.gamepedia.com^$important
 ||zh.minecraftwiki.net^$important
-
-||dispatchcnglobal.yuanshen.com^$important
 
 # Malicious Website refusing to patch for Firefox
 ||myplan.johnhancock.com^$important
