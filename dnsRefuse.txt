@@ -9,6 +9,7 @@
 ||snapcraft.io^$important
 ||warp.dev^$important
 ||*tiktok*^$important
+||jianshu.com^
 
 # ushi.net.cn Scam
 ||ushi.net.cn^$important
