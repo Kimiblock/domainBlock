@@ -44,3 +44,7 @@
 ||ad.qun.qq.com^$important
 ||adfilter.imtt.qq.com^$important
 ||adping.qq.com^$important
+
+# Fake Matrix server
+||neboer.site^$important
+||chat.neboer.site^$important
